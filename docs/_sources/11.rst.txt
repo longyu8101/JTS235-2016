@@ -1,32 +1,28 @@
-观测报告
-====================================
-
+11 观测报告
+===================
 
 .. raw:: html
 
+  <h2 id="test111">11 观测报告</h2>
+
+11.1 观测资料整理与分析
+---------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id11.1.1"> 11.1.1</a> <span id="id11.1.1"> 结构自重的标准值应按结构构件的设计尺寸与材料密度计算确定。对于自重变异较大的材料和构件，对结构不利时自重标准值取上限值，对结构有利时取下限值。</span></p>
+ <p style="text-align:justify"><a href="#id11.1.2"> 11.1.2</a> <span id="id11.1.2"> 位置固定的永久设备自重应采用设备铭牌重量值；当无铭牌重量时，应按实际重量计算。</span></p>
+ <p style="text-align:justify"><a href="#id11.1.3"> 11.1.3</a> <span id="id11.1.3"> 隔墙自重作为永久作用时，应符合位置固定的要求；位置可灵活布置的轻质隔墙自重应按可变荷载考虑。</span></p>
+
+
+11.2 观测成果报告
+----------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id11.2.1"> 11.2.1</a> <span id="id11.2.1"> 水平变位观测可分为表面水平变位观测和内部水平变位观测。</span></p>
+ <p style="text-align:justify"><a href="#id11.2.2"> 11.2.2</a> <span id="id11.2.2"> 水平变位观测的测点设置应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#id11.2.3"> 11.2.3</a> <span id="id11.2.3"> 水平变位观测方法应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#id11.2.4"> 11.2.4</a> <span id="id11.2.4"> 水平变位观测周期，第一年可3~6个月观测1次；以后可1~2年观测1次；同一观测点应同时进行垂直变位观测。对水平变位比较敏感的水工建筑物可加密观测。</span></p>
+ <p style="text-align:justify"><a href="#id11.2.5"> 11.2.5</a> <span id="id11.2.5"> 水平变位观测的精度应符合表6.1.4的规定。</span></p>
  
-   <b><font size="5">中华人民共和国国家标准</font></b>
-
- <p> <br/> <br/> <br/></p>
-
- 
-
-  <h1 id="test111"><font size="6"><br/><br/><br/>工程结构通用规范</font></h1>
-
- <b><br/><font size="5">GB 55001 - 2021 </font></b>
-
-
- <b><br/><br/><font size="6">起草说明</font></b>
-
-     <style>
-        #abc{
-            height:500px;
-            background-color: #f0ffff;
-        }
-    </style>
- </head>
- <body>
-    <div id="abc"></div>
- </body>
-
-
