@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = '水运工程水工建筑物原型观测技术规范<br /><br />JTS 235-2016'
+project = '水运工程水工建筑物原型<br />观测技术规范<br /><br />JTS 235-2016'
 copyright = '哈尔滨工业大学' 
 
 # -- General configuration ---------------------------------------------------

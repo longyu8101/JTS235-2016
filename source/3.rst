@@ -9,310 +9,32 @@
 ---------------------------------
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id3.1.1"> 3.1.1</a> <span id="id3.1.1"> 涉及人身安全以及结构安全的极限状态应作为承载能力极限状态。当结构或结构构件出现下列状态之一时，应认为超过了承载能力极限状态：</span></p>
- <ol>
- <li style="text-align:justify">结构构件或连接因超过材料强度而破坏，或因过度变形而不适于继续承载；</li>
- <li style="text-align:justify">整个结构或其一部分作为刚体失去平衡；</li>
- <li style="text-align:justify">结构转变为机动体系；</li>
- <li style="text-align:justify">结构或结构构件丧失稳定；</li>
- <li style="text-align:justify">结构因局部破坏而发生连续倒塌；</li>
- <li style="text-align:justify">地基丧失承载力而破坏；</li>
- <li style="text-align:justify">结构或结构构件发生疲劳破坏。</li>
-  </ol>
- <p style="text-align:justify"><a href="#id3.1.2"> 3.1.2</a> <span id="id3.1.2"> 涉及结构或结构单元的正常使用功能、人员舒适性、建筑外观的极限状态应作为正常使用极限状态。当结构或结构构件出现下列状态之一时，应认为超过了正常使用极限状态：</span></p>
+ <p style="text-align:justify"><a href="#id3.1.1"> 3.1.1</a> <span id="id3.1.1"> 运工程水工建筑物原型观测可分为外观观测、变位与变形观测、力与应力观测、振动观测、冻融观测和腐蚀观测。</span></p>
+ <p style="text-align:justify"><a href="#id3.1.2"> 3.1.2</a> <span id="id3.1.2"> 水运工程水工建筑物原型观测项目应按表3.1.2选定。</span></p>
  <ol>
  <li style="text-align:justify">影响外观、使用舒适性或结构使用功能的变形；</li>
  <li style="text-align:justify">造成人员不舒适或结构使用功能受限的振动；</li>
  <li style="text-align:justify">影响外观、耐久性或结构使用功能的局部损坏。</li>
   </ol>
- <p style="text-align:justify"><a href="#id3.1.3"> 3.1.3</a> <span id="id3.1.3"> 结构设计应对起控制作用的极限状态进行计算或验算；当不能确定起控制作用的极限状态时，结构设计应对不同极限状态分别计算或验算。</span></p>
- <p style="text-align:justify"><a href="#id3.1.4"> 3.1.4</a> <span id="id3.1.4"> 结构设计应区分下列设计状况：</span></p>
- <ol>
- <li style="text-align:justify">持久设计状况，适用于结构正常使用时的情况；</li>
- <li style="text-align:justify"> 短暂设计状况，适用于结构施工和维修等临时情况；</li>
- <li style="text-align:justify">偶然设计状况，适用于结构遭受火灾、爆炸，非正常撞击等罕见情况；</li>
- <li style="text-align:justify">地震设计状况，适用于结构遭受地震时的情况。</li>
+ <p style="text-align:justify"><a href="#id3.1.3"> 3.1.3</a> <span id="id3.1.3"> 观测项目的选定应考虑全面、突出重点。对观测项目影响较大的环境因素应同步进行观测。</span></p>
+ <p style="text-align:justify"><a href="#id3.1.4"> 3.1.4</a> <span id="id3.1.4"> 水运工程水工建筑物原型观测应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#id3.1.4.1"> 3.1.4.1</a> <span id="id3.1.4.1"> 观测方法、观测设备的选用和观测点的布置应根据观测要求、建筑物结构型式和所处的自然环境确定，并能全面反映建筑物的工作状态。</span></p>
+ <p style="text-align:justify"><a href="#id3.1.4.2"> 3.1.4.2</a> <span id="id3.1.4.2"> 观测周期应根据观测目的和要求确定，并应能反映观测要素的变化过程；出现异常情况时，应增加观测频次。</span></p>
+ <p style="text-align:justify"><a href="#id3.1.4.3"> 3.1.4.3</a> <span id="id3.1.4.3"> 观测精度应满足观测设计要求。</span></p>
+ <p style="text-align:justify"><a href="#id3.1.4.4"> 3.1.4.4</a> <span id="id3.1.4.4"> 观测作业应保持人员、仪器、时间和观测环境的相对固定和观测资料的连续性。</span></p>
+ <p style="text-align:justify"><a href="#id3.1.4.5"> 3.1.4.5</a> <span id="id3.1.4.5"> 观测记录应书写规范、字迹清楚、填写齐全，不得更改。修改笔误必须杠改，不得涂改。记录的数据应及时进行计算和校核。</span></p>
+ <p style="text-align:justify"><a href="#id3.1.5"> 3.1.5</a> <span id="id3.1.5"> 水运工程水工建筑物原型观测工作应包括下列内容：</span></p>
+  <ol>
+ <li style="text-align:justify">观测设计；</li>
+ <li style="text-align:justify">观测仪器设备选型、安装、使用和维护；</li>
+ <li style="text-align:justify">必要的观测辅助设施布置；</li>
+ <li style="text-align:justify">观测实施；</li>
+ <li style="text-align:justify">观测资料整理与分析；</li>
+ <li style="text-align:justify">观测成果报告编写。</li>
   </ol>
- <p style="text-align:justify"><a href="#id3.1.5"> 3.1.5</a> <span id="id3.1.5"> 结构设计时选定的设计状况，应涵盖正常施工和使用过程中的各种不利情况。各种设计状况均应进行承载能力极限状态设计，持久设计状况尚应进行正常使用极限状态设计。</span></p>
- <p style="text-align:justify"><a href="#id3.1.6"> 3.1.6</a> <span id="id3.1.6"> 对每种设计状况，均应考虑各种不同的作用组合，以确定作用控制工况和最不利的效应设计值。</span></p>
- <p style="text-align:justify"><a href="#id3.1.7"> 3.1.7</a> <span id="id3.1.7"> 进行承载能力极限状态设计时采用的作用组合，应符合下列规定：</span></p>
- <ol>
- <li style="text-align:justify">持久设计状况和短暂设计状况应采用作用的基本组合；</li>
- <li style="text-align:justify">偶然设计状况应采用作用的偶然组合；</li>
- <li style="text-align:justify">地震设计状况应采用作用的地震组合；</li>
- <li style="text-align:justify">作用组合应为可能同时出现的作用的组合；</li>
- <li style="text-align:justify">每个作用组合中应包括一个主导可变作用或一个偶然作用或一个地震作用；</li>
- <li style="text-align:justify">当静力平衡等极限状态设计对永久作用的位置和大小很敏感时，该永久作用的有利部分和不利部分应作为单独作用分别考虑；</li>
- <li style="text-align:justify">当一种作用产生的几种效应非完全相关时，应降低有利效应的分项系数取值。</li>
- </ol>
- <p style="text-align:justify"><a href="#id3.1.8"> 3.1.8</a> <span id="id3.1.8"> 进行正常使用极限状态设计时采用的作用组合，应符合下列规定：</span></p>
- <ol>
- <li style="text-align:justify">标准组合，用于不可逆正常使用极限状态设计；</li>
- <li style="text-align:justify">频遇组合，用于可逆正常使用极限状态设计；</li>
- <li style="text-align:justify">准永久组合，用于长期效应是决定性因素的正常使用极限状态设计。</li>
- </ol>
- <p style="text-align:justify"><a href="#id3.1.9"> 3.1.9</a> <span id="id3.1.9"> 设计基本变量的设计值应符合下列规定：</span></p>
- <ol>
- <li style="text-align:justify">作用的设计值应为作用代表值与作用分项系数的乘积。</li>
- <li style="text-align:justify">材料性能的设计值应为材料性能标准值与材料性能分项系数之商。</li>
- <li style="text-align:justify">当几何参数的变异性对结构性能无明显影响时，几何参数的设计值应取其标准值；当有明显影响时，几何参数设计值应按不利原则取其标准值与几何参数附加量之和或差。</li>
- <li style="text-align:justify">结构或结构构件的抗力设计值应为考虑了材料性能设计值和几何参数设计值之后，分析计算得到的抗力值。</li>
- </ol>
- <p style="text-align:justify"><a href="#id3.1.10"> 3.1.10</a> <span id="id3.1.10"> 结构或结构构件按承载能力极限状态设计时，应符合下列规定：</span></p>
- <ol>
- <li style="text-align:justify">对于结构或结构构件的破坏或过度变形的承载能力极限状态设计，作用组合的效应设计值与结构重要性系数的乘积不应超过结构或结构构件的抗力设计值，其中结构重要性系数<font size="4">γ</font><sub>0</sub>应按本规范<a href="#B3.3.12">表3.3.12</a>的规定取值。</li>
- <li style="text-align:justify">对于整个结构或其一部分作为刚体失去静力平衡的承载能力极限状态设计，不平衡作用效应的设计值与结构重要性系数的乘积不应超过平衡作用的效应设计值，其中结构重要性系数<font size="4">γ</font><sub>0</sub>应按本规范<a href="#B3.3.12">表3.3.12</a>的规定取值。</li>
- <li style="text-align:justify">对于结构或结构构件的疲劳破坏的承载能力极限状态设计，应根据构件受力特性及疲劳设计方法采用不同的疲劳荷载模型和验算表达式。</li>
- </ol>
- <p style="text-align:justify"><a href="#id3.1.11"> 3.1.11</a> <span id="id3.1.11"> 结构或结构构件按正常使用极限状态设计时，作用组合的效应设计值不应超过设计要求的效应限值。</span></p>
- <p style="text-align:justify"><a href="#id3.1.12"> 3.1.12</a> <span id="id3.1.12"> 结构重要性系数 <font size="4">γ</font><sub>0</sub> 不应小于<a href="#B3.1.12">表3.1.12</a>的规定。</span></p>
- 
- <style>
-      #biaoge {
-         border: 2px solid black;
-         border-collapse: collapse;
-         margin-bottom:1px;
-        
-      }
-      th, td {
-         padding-top: 5px;
-         padding-bottom:5px;
-         padding-left:5px;
-         padding-right:5px;
-         border: 1px solid black;
-         vertical-align: middle;
-         
-      }
-      #eqzs {
-         border: 0px;
-      }
-      #dhbg {
-        vertical-align: middle;
-      }
-     </style>
+ <p style="text-align:justify"><a href="#id3.1.6"> 3.1.6</a> <span id="id3.1.6"> 原型观测的项目合同、技术资料、观测成果及分析计算资料、观测成果报告和审查鉴定意见书等应按国家科技档案规定和档案管理要求整理归档。</span></p>
+ <p style="text-align:justify"><a href="#id3.1.7"> 3.1.7</a> <span id="id3.1.7"> 观测单位应具有相应资质，所使用的观测仪器应满足国家计量法规和标准的要求。</span></p>
 
-		<table id="biaoge" style="font-family:times new roman">
-
-         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.1.12">表3.1.12 结构重要性系数 <font size="4">γ</font><sub>0</sub></b></caption>	
-              
-		    <tr>
-		        <td  rowspan="3"  align="center" id="dhbg">结构<br/>重要性系数</td>
-		        <td  colspan="3" align="center">对持久设计状况和短暂设计状况</td>
-            <!-- <td></td> -->
-            <!-- <td></td> -->
-		        <td  rowspan="3"  align="center" id="dhbg">对偶然设计状况<br/>和地震设计状况</td>
-		    </tr>
-	     <tr>
-		       <!-- <td></td> -->
-		        <td  colspan="3" align="center">安全等级</td>
-           <!-- <td></td> -->
-           <!-- <td></td> -->
-		       <!-- <td></td> -->
-		    </tr>
-      	<tr>
-		       <!-- <td></td> -->
-		        <td align="center">一级</td>
-            <td align="center">二级</td>
-            <td align="center">三级</td>
-		       <!-- <td></td> -->
-		    </tr>
-        <tr>
-		      <td width="180px"  align="center"><font size="4">γ</font><sub>0</sub></td>
-		      <td width="180px"  align="center">1.1</td>
-            <td width="180px"  align="center">1.0</td>
-            <td width="180px"  align="center">0.9</td>
-		      <td width="180px"  align="center">1.0</td>
-		    </tr>
-		</table>
-    <p></p>
-
- <p><a href="#id3.1.13"> 3.1.13</a> <span id="id3.1.13"> 房屋建筑结构的作用分项系数应按下列规定取值：</span></p>
- <ol>
- <li style="text-align:justify">永久作用：当对结构不利时，不应小于1.3；当对结构有利时，不应大于1.0。</li>
- <li style="text-align:justify">预应力：当对结构不利时，不应小于1.3；当对结构有利时，不应大于1.0。</li>
- <li style="text-align:justify">标准值大于4kN/m<sup>2</sup>的工业房屋楼面活荷载，当对结构不利时不应小于1.4；当对结构有利时，应取为0。</li>
- <li style="text-align:justify">除第3款之外的可变作用，当对结构不利时不应小于1.5；当对结构有利时，应取为0。</li>
-  </ol>
- <p style="text-align:justify"><a href="#id3.1.14"> 3.1.14</a> <span id="id3.1.14"> 公路桥涵结构永久作用的分项系数，应按<a href="#B3.1.14">表3.1.14</a>采用。</span></p>
- 
-
-		<table id="biaoge" style="font-family:times new roman">
-
-         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.1.14">表3.1.14 公路桥涵结构永久作用的分项系数</b></caption>	
-              
-		    <tr>
-		        <td  width="300px" colspan="2" align="center" id="dhbg">作用类别</td>
-             <!-- <td></td> -->
-		        <td  align="center">当作用效应对结构的<br/>承载力不利时</td>
-            <td   align="center">当作用效应对结构的<br/>承载力有利时</td>
-		    </tr>
-	     <tr>
-		        <td  align="center" colspan="2"  id="dhbg">混凝土和圬工结构重力<br/>(包括结构附加重力)</td>
-            <!-- <td></td> -->
-		        <td  align="center" id="dhbg">1.2</td>
-            <td  rowspan="7" align="center" id="dhbg">1.0</td>
-		    </tr>
-	     <tr>
-		        <td  align="center"  colspan="2" id="dhbg">钢结构重力<br/>(包括结构附加重力)</td>
-            <!-- <td></td> -->
-		        <td  align="center" id="dhbg">1.1 ~ 1.2</td>
-            <!-- <td></td> -->
-		    </tr>
-       <tr>
-		        <td  align="center" colspan="2" >预加力</td>
-            <!-- <td></td> -->
-		        <td  rowspan="2" align="center" id="dhbg">1.2</td>
-            <!-- <td></td> -->
-		    </tr>
-       <tr>
-		        <td  align="center" colspan="2" >土的重力</td>
-            <!-- <td></td> -->
-		        <!-- <td></td> -->
-            <!-- <td></td> -->
-		    </tr>
-       <tr>
-		       <td  align="center" colspan="2" >混凝土的收缩及徐变作用</td>
-           <!-- <td></td> -->
-		       <td  align="center">1.0</td>
-            <!-- <td></td> -->
-		    </tr>
-       <tr>
-		       <td  align="center" colspan="2" >土侧压力</td>
-           <!-- <td></td> -->
-		       <td  align="center">1.4</td>
-            <!-- <td></td> -->
-		    </tr>
-       <tr>
-		       <td  align="center" colspan="2" >水的浮力</td>
-           <!-- <td></td> -->
-		       <td  align="center">1.0</td>
-            <!-- <td></td> -->
-		    </tr>
-        <tr>
-		       <td  align="center" rowspan="2" width=100px id="dhbg">基础变<br/>位作用</td>
-           <td  align="center"  width=200px>混凝土和圬工结构</td>
-		       <td  align="center"  width=300px>0.5</td>
-           <td  align="center"  width=300px>0.5</td>
-		    </tr> 
-       <tr>
-		        <!-- <td></td> -->
-           <td  align="center">钢结构</td>
-		       <td  align="center">1.0</td>
-           <td  align="center">1.0</td>
-		    </tr> 
-
-		</table>
-    <p></p>
-
-
-
- <p style="text-align:justify"><a href="#id3.1.15"> 3.1.15</a> <span id="id3.1.15"> 港口工程结构的作用分项系数，应按<a href="#B3.1.15">表3.1.15</a>采用。</span></p>
- 
-
-		<table id="biaoge" style="font-family:times new roman">
-
-         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.1.15">表3.1.15 港口工程结构的作用分项系数</b></caption>	
-              
-		    <tr>
-		        <td  width=400px align="center" id="dhbg">荷载名称</td>
-		        <td  width=100px align="center">分项<br/>系数</td>
-            <td  width=300px align="center" id="dhbg">荷载名称</td>
-		        <td  width=100px align="center">分项<br/>系数</td>
-		    </tr>
-	    <tr>
-		        <td  align="center">永久荷载（不包括土压力、静水压力）</td>
-		        <td  align="center">1.2</td>
-            <td  align="center">铁路荷载</td>
-		        <td  align="center" rowspan="8" id="dhbg">1.4</td>
-		    </tr>
-        <tr>
-		        <td  align="center">五金钢铁荷载</td>
-		        <td  align="center" rowspan="7" id="dhbg">1.5</td>
-            <td  align="center">汽车荷载</td>
-		        <!-- <td></td> -->
-		    </tr>
-        <tr>
-		        <td  align="center">散货荷载</td>
-		         <!-- <td></td> -->
-            <td  align="center">缆车荷载</td>
-		        <!-- <td></td> -->
-		    </tr>
-          <tr>
-		        <td  align="center">起重机械荷载</td>
-		         <!-- <td></td> -->
-            <td  align="center">船舶系缆力</td>
-		        <!-- <td></td> -->
-		    </tr>
-        <tr>
-		        <td  align="center">船舶撞击力</td>
-		         <!-- <td></td> -->
-            <td  align="center">船舶挤靠力</td>
-		        <!-- <td></td> -->
-		    </tr>
-        <tr>
-		        <td  align="center">水流力</td>
-		         <!-- <td></td> -->
-            <td  align="center">运输机荷载</td>
-		        <!-- <td></td> -->
-		    </tr>
-        <tr>
-		        <td  align="center">冰荷载</td>
-		         <!-- <td></td> -->
-            <td  align="center">风荷载</td>
-		        <!-- <td></td> -->
-		    </tr>
-        <tr>
-		        <td  align="center">波浪力（构建计算）</td>
-		        <!-- <td></td> -->
-            <td  align="center">人群荷载</td>
-		        <!-- <td></td> -->
-		    </tr>
-        <tr>
-		        <td  align="center">一般件杂货、集装箱荷载</td>
-		        <td  align="center" rowspan="2" id="dhbg">1.4</td>
-            <td  align="center">土压力</td>
-		        <td  align="center">1.35</td>
-		    </tr>
-        <tr>
-		        <td  align="center">液体管道（含推力）荷载</td>
-		        <!-- <td></td> -->
-            <td  align="center">剩余水压力</td>
-		        <td  align="center">1.05</td>
-		    </tr>    
-              
-     </table>
-    <p></p>
-
-
-
- <p style="text-align:justify"><a href="#id3.1.16"> 3.1.16</a> <span id="id3.1.16"> 房屋建筑的可变荷载考虑设计工作年限的调整系数 <font size="4">γ</font><sub>L</sub> 应按下列规定采用：</span></p>
- <ol>
- <li style="text-align:justify">对于荷载标准值随时间变化的楼面和屋面活荷载，考虑设计工作年限的调整系数 <font size="4">γ</font><sub>L</sub> 应按<a href="#B3.1.16">表3.1.16</a>采用。当设计工作年限不为表中数值时，调整系数 <font size="4">γ</font><sub>L</sub> 不应小于按线性内插确定的值。</li>
-  </ol>
-
-
-		<table id="biaoge" style="font-family:times new roman">
-
-         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.1.16">表3.1.16 楼面和屋面活荷载考虑设计工作年限的调整系数 <i><font size="4">γ</font></i><sub>L</sub></b></caption>	
-              
-		    <tr>
-		        <td  width=450px align="center" >结构设计工作年限（年）</td>
-		        <td  width=150px align="center">5</td>
-            <td  width=150px align="center">50</td>
-            <td  width=150px align="center">100</td>
-		    </tr>
-        <tr>
-		        <td  width=450px align="center" ><i><font size="4">γ</font></i><sub>L</sub></td>
-		        <td  width=150px align="center">0.9</td>
-            <td  width=150px align="center">1.0</td>
-            <td  width=150px align="center">1.1</td>
-		    </tr>
-     </table>
-    <p></p>
-
- <ol start="2">
- <li style="text-align:justify">对雪荷载和风荷载，调整系数应按重现期与设计工作年限相同的原则确定。
- </ol>
 
 
 3.2 观测仪器设备
@@ -320,7 +42,22 @@
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id3.2.1"> 3.2.1</a> <span id="id3.2.1"> 委托方应协调组织有关单位布设观测系统，并协调采取有效措施保护观测系统。</span></p>
- <p style="text-align:justify"><a href="#id3.2.2"> 3.2.2</a> <span id="id3.2.2"> 观测实施前应对观测系统进行检查调试，观测过程中应定期检查和维护；当观测系统出现异常情况时，应查明原因及时修复，并做好修复前后的数据处理工作，应保证观测数据完整、连续。</span></p>
- <p style="text-align:justify"><a href="#id3.2.3"> 3.2.3</a> <span id="id3.2.3"> 水工建筑物维修、加固或改建时，应对需要保留的观测系统采取有效保护措施。</span></p>
- <p style="text-align:justify"><a href="#id3.2.4"> 3.2.4</a> <span id="id3.2.4"> 测实施过程中，发现水工建筑物有异常情况时，应及时向委托方报告。</span></p>
+ <p style="text-align:justify"><a href="#id3.2.1"> 3.2.1</a> <span id="id3.2.1"> 测仪器设备必须经检验和标定合格后才能使用，并应在检定周期内使用。</span></p>
+ <p style="text-align:justify"><a href="#id3.2.2"> 3.2.2</a> <span id="id3.2.2"> 测仪器设备应满足操作方便、抗干扰能力强、稳定性和耐久性好的要求，其量程、精度指标应符合观测设计要求。观测仪器设备应定期进行维护和保养。</span></p>
+ <p style="text-align:justify"><a href="#id3.2.3"> 3.2.3</a> <span id="id3.2.3"> 观测仪器设备应严格按操作规程使用。</span></p>
+ <p style="text-align:justify"><a href="#id3.2.4"> 3.2.4</a> <span id="id3.2.4"> 同类观测要素的量测宜采用相同型号和规格的仪器、传感器及线缆。</span></p>
+ <p style="text-align:justify"><a href="#id3.2.5"> 3.2.5</a> <span id="id3.2.5"> 观测传感器的量程、精度、耐久性和稳定性等各项性能指标应满足观测设计要求，并应按照观测设计、产品说明书的要求布置、埋设和保护传感器。</span></p>
+ <p style="text-align:justify"><a href="#id3.2.6"> 3.2.6</a> <span id="id3.2.6"> 观测线缆的稳定性、耐久性等应满足观测设计要求，并与观测系统整体匹配。观测线缆应合理布置或埋设，减少与工程施工或生产作业的干扰，并应采取有效保护措施。</span></p>
+ <p style="text-align:justify"><a href="#id3.2.7"> 3.2.7</a> <span id="id3.2.7"> 观测系统布设完毕后，应及时对观测系统进行调试，并绘制观测系统竣工图。</span></p>
+ <p style="text-align:justify"><a href="#id3.2.8"> 3.2.8</a> <span id="id3.2.8"> 观测系统发生变动时，应建立新旧系统转换关系。</span></p>
+ <p style="text-align:justify"><a href="#id3.2.9"> 3.2.9</a> <span id="id3.2.9"> 采用无线传输技术时，应根据观测要求及现场环境选择合适的传输方式，确保数据传输的稳定性和可靠性。</span></p>
+
+3.3 观测实施
+----------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id3.3.1"> 3.3.1</a> <span id="id3.3.1"> 委托方应协调组织有关单位布设观测系统，并协调采取有效措施保护观测系统。</span></p>
+ <p style="text-align:justify"><a href="#id3.3.2"> 3.3.2</a> <span id="id3.3.2"> 观测实施前应对观测系统进行检查调试，观测过程中应定期检查和维护；当观测系统出现异常情况时，应查明原因及时修复，并做好修复前后的数据处理工作，应保证观测数据完整、连续。</span></p>
+ <p style="text-align:justify"><a href="#id3.3.3"> 3.3.3</a> <span id="id3.3.3"> 水工建筑物维修、加固或改建时，应对需要保留的观测系统采取有效保护措施。</span></p>
+ <p style="text-align:justify"><a href="#id3.3.4"> 3.3.4</a> <span id="id3.3.4"> 观测实施过程中，发现水工建筑物有异常情况时，应及时向委托方报告。</span></p>

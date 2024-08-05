@@ -10,462 +10,106 @@
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id4.1.1"> 4.1.1</a> <span id="id4.1.1"> 结构自重的标准值应按结构构件的设计尺寸与材料密度计算确定。对于自重变异较大的材料和构件，对结构不利时自重标准值取上限值，对结构有利时取下限值。</span></p>
- <p style="text-align:justify"><a href="#id4.1.2"> 4.1.2</a> <span id="id4.1.2"> 位置固定的永久设备自重应采用设备铭牌重量值；当无铭牌重量时，应按实际重量计算。</span></p>
- <p style="text-align:justify"><a href="#id4.1.3"> 4.1.3</a> <span id="id4.1.3"> 隔墙自重作为永久作用时，应符合位置固定的要求；位置可灵活布置的轻质隔墙自重应按可变荷载考虑。</span></p>
- <p style="text-align:justify"><a href="#id4.1.4"> 4.1.4</a> <span id="id4.1.4"> 土压力应按设计埋深与土的单位体积自重计算确定。土的单位体积自重应根据计算水位分别取不同密度进行计算。</span></p>
- <p style="text-align:justify"><a href="#id4.1.5"> 4.1.5</a> <span id="id4.1.5"> 预加应力应考虑时间效应影响，采用有效预应力。</span></p>
-
+ <p style="text-align:justify"><a href="#id4.1.1"> 4.1.1</a> <span id="id4.1.1"> 工程设计单位或建设单位应根据需要提出观测要求，观测要求应包括下列内容：</span></p>
+  <ol>
+ <li style="text-align:justify"> 观测对象；</li>
+ <li style="text-align:justify"> 观测目的和要求；</li>
+ <li style="text-align:justify"> 观测项目；</li>
+ <li style="text-align:justify"> 观测精度与频次要求；</li>
+ <li style="text-align:justify"> 观测成果要求。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id4.1.2"> 4.1.2</a> <span id="id4.1.2"> 观测单位应根据观测要求进行观测设计。观测设计应包含下列内容：</span></p>
+ <ol>
+ <li style="text-align:justify"> 水工建筑物概况；</li>
+ <li style="text-align:justify"> 观测目的和任务要求；</li>
+ <li style="text-align:justify"> 观测项目安排；</li>
+ <li style="text-align:justify"> 观测方法、周期与频次；</li>
+ <li style="text-align:justify"> 观测点布置；</li>
+ <li style="text-align:justify"> 仪器设备配置，观测系统的布设及保护方案；</li>
+ <li style="text-align:justify"> 人员配备；</li>
+ <li style="text-align:justify"> 安全及环保措施；</li>
+ <li style="text-align:justify"> 观测资料的分析方法。</li>       
+ </ol>
+ <p style="text-align:justify"><a href="#id4.1.3"> 4.1.3</a> <span id="id4.1.3"> 型观测宜优先采用自动化观测。自动化观测系统宜具有数据采集、存储、传输、处理和分析等功能。</span></p>
+ <p style="text-align:justify"><a href="#id4.1.4"> 4.1.4</a> <span id="id4.1.4"> 观测设计应根据水工建筑物结构特点和使用要求编制，并综合考虑水工建筑物安全性、适用性和耐久性。</span></p>
+ 
 
 4.2 码头
 ----------------------
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id4.2.1"> 4.2.1</a> <span id="id4.2.1"> 采用等效均布活荷载方法进行设计时，应保证其产生的荷载效应与最不利堆放情况等效；建筑楼面和屋面堆放物较多或较重的区域，应按实际情况考虑其荷载。</span></p>
- <p style="text-align:justify"><a href="#id4.2.2"> 4.2.2</a> <span id="id4.2.2"> 一般使用条件下的民用建筑楼面均布活荷载标准值及其组合值系数、频遇值系数和准永久值系数的取值，不应小于<a href="#B4.2.2">表4.2.2</a>的规定。当使用荷载较大、情况特殊或有专门要求时，应按实际情况采用。</span></p>
- <p style="text-align:justify"><a href="#id4.2.3"> 4.2.3</a> <span id="id4.2.3"> 汽车通道及客车停车库的楼面均布活荷载标准值及其组合值系数、频遇值系数和准永久值系数的取值，不应小于<a href="#B4.2.3">表4.2.3</a>的规定。当应用条件不符合本表要求时，应按效应等效原则，将车轮的局部荷载换算为等效均布荷载。</span></p>
-
- <style>
-      #biaoge {
-         border: 2px solid black;
-         border-collapse: collapse;
-         margin-bottom:1px;
-        
-      }
-      th, td {
-         padding-top: 5px;
-         padding-bottom:5px;
-         padding-left:5px;
-         padding-right:5px;
-         border: 1px solid black;
-         vertical-align: middle;
-         
-      }
-      #eqzs {
-         border: 0px;
-      }
-      #dhbg {
-        vertical-align: middle;
-      }
-     </style>
-
-		<table id="biaoge" style="font-family:times new roman">
-
-         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.2.2">表4.2.2 民用建筑楼面均匀活荷载标准值及其组合值系数、<br/>频遇值系数和准永久值系数</b></caption>	
-              
-		    <tr>
-		      <td width=60px align="center" id="dhbg">项次</td>
-		      <td  colspan="2" align="center" id="dhbg">类别</td>
-            <!-- <td></td> -->
-            <td width=100px align="center">标准值<br/>(kN/m<sup>2</sup>)</td>
-            <td width=100px align="center">组合值<br/>系数ψ<sub>c</sub></td>
-		      <td width=100px align="center">频遇值<br/>系数ψ<sub>f</sub></td>
-            <td width=100px align="center">准永久值<br/>系数ψ<sub>q</sub></td>
-		    </tr>
-	     <tr>
-		     <td  rowspan="2" align="center" id="dhbg">1</td>
-		     <td  colspan="2" align="left">(1) 住宅、宿舍、旅馆、医院病房、托儿所、幼儿园</td>
-           <!-- <td></td> -->
-           <td align="center">2.0</td>
-           <td align="center">0.7</td>
-		     <td align="center">0.5</td>
-            <td align="center">0.4</td>
-		   </tr>
-       <tr>
-		    <!-- <td></td> -->
-		     <td  colspan="2" align="left">(2) 办公楼、教室、医院门诊室</td>
-           <!-- <td></td> -->
-           <td align="center">2.5</td>
-           <td align="center">0.7</td>
-		     <td align="center">0.6</td>
-            <td align="center">0.5</td>
-		   </tr>   
-       <tr>
-		    <td align="center">2</td>
-		    <td align="left"colspan="2">食堂、餐厅、试验室、阅览室、会议室、一般资料档案室</td>
-          <!-- <td></td> -->
-          <td align="center">3.0</td>
-          <td align="center">0.7</td>
-		    <td align="center">0.6</td>
-          <td align="center">0.5</td>
-		   </tr> 
-       <tr>
-		    <td align="center">3</td>
-		    <td align="left" colspan="2">礼堂、剧场、影院、有固定座位的看台、公共洗衣房</td>
-          <!-- <td></td> -->
-          <td align="center">3.5</td>
-          <td align="center">0.7</td>
-		    <td align="center">0.5</td>
-          <td align="center">0.3</td>
-		   </tr>  
-       <tr>
-		     <td  rowspan="2" align="center" id="dhbg">4</td>
-		     <td  colspan="2" align="left">(1) 商店、展览厅、车站、港口、机场大厅及其旅客等候室</td>
-           <!-- <td></td> -->
-           <td align="center">4.0</td>
-           <td align="center">0.7</td>
-		     <td align="center">0.6</td>
-            <td align="center">0.5</td>
-		   </tr>
-       <tr>
-		    <!-- <td></td> -->
-		     <td  colspan="2" align="left">(2) 无固定座位的看台</td>
-           <!-- <td></td> -->
-           <td align="center">4.0</td>
-           <td align="center">0.7</td>
-		     <td align="center">0.5</td>
-           <td align="center">0.3</td>
-		   </tr> 
-       <tr>
-		     <td  rowspan="2" align="center" id="dhbg">5</td>
-		     <td  colspan="2" align="left">(1) 健身房、演出舞台</td>
-           <!-- <td></td> -->
-           <td align="center">4.5</td>
-           <td align="center">0.7</td>
-		     <td align="center">0.6</td>
-           <td align="center">0.5</td>
-		   </tr>
-       <tr>
-		    <!-- <td></td> -->
-		     <td  colspan="2" align="left">(2) 运动场、舞厅</td>
-           <!-- <td></td> -->
-           <td align="center">4.5</td>
-           <td align="center">0.7</td>
-		     <td align="center">0.6</td>
-           <td align="center">0.3</td>
-		   </tr>   
-          <tr>
-		     <td  rowspan="2" align="center" id="dhbg">6</td>
-		     <td  colspan="2" align="left">(1) 健书库、档案库、储藏室（书架高度不超过2.5 m）</td>
-           <!-- <td></td> -->
-           <td align="center">6.0</td>
-           <td align="center">0.9</td>
-		     <td align="center">0.9</td>
-           <td align="center">0.8</td>
-		   </tr>
-       <tr>
-		    <!-- <td></td> -->
-		     <td  colspan="2" align="left">(2) 密集柜书柜（书架高度不超过2.5 m）</td>
-           <!-- <td></td> -->
-           <td align="center">12.0</td>
-           <td align="center">0.9</td>
-		     <td align="center">0.9</td>
-           <td align="center">0.8</td>
-		   </tr>
-       <tr>
-		    <td align="center">7</td>
-		    <td align="left" colspan="2">通风机房、电梯机房</td>
-          <!-- <td></td> -->
-          <td align="center">8.0</td>
-          <td align="center">0.9</td>
-		    <td align="center">0.9</td>
-          <td align="center">0.8</td>
-		   </tr>
-         <tr>
-		     <td  rowspan="2" align="center" id="dhbg">8</td>
-		     <td  width=100px rowspan="2" align="center" id="dhbg">厨房</td>
-           <td  width=340px align="left">(1) 餐厅</td>
-           <td align="center">4.0</td>
-           <td align="center">0.7</td>
-		     <td align="center">0.7</td>
-           <td align="center">0.7</td>
-		   </tr> 
-          <tr>
-		    <!-- <td></td> -->
-          <!-- <td></td> -->
-		     <td align="left">(2) 其他</td>
-           <td align="center">2.0</td>
-           <td align="center">0.7</td>
-		     <td align="center">0.6</td>
-           <td align="center">0.5</td>
-		   </tr> 
-        <tr>
-		    <td align="center">9</td>
-		    <td align="left" colspan="2">浴室、卫生间、盥洗室</td>
-          <!-- <td></td> -->
-          <td align="center">2.5</td>
-          <td align="center">0.7</td>
-		    <td align="center">0.6</td>
-          <td align="center">0.5</td>
-		   </tr>  
-       <tr>
-		     <td  rowspan="3" align="center" id="dhbg">10</td>
-		     <td  rowspan="3" align="center" id="dhbg">厨房</td>
-           <td align="left">(1)宿舍、旅馆、医院病房、托儿所、幼儿园、住宅</td>
-           <td align="center">2.0</td>
-           <td align="center">0.7</td>
-		     <td align="center">0.5</td>
-           <td align="center">0.4</td>
-		   </tr>
-       <tr>
-		    <!-- <td></td> -->
-		    <!-- <td></td> -->
-           <td align="left">(2)办公楼、餐厅、医院门诊部</td>
-           <td align="center">3.0</td>
-           <td align="center">0.7</td>
-		     <td align="center">0.6</td>
-           <td align="center">0.5</td>
-		   </tr>
-       <tr>
-		    <!-- <td></td> -->
-		    <!-- <td></td> -->
-           <td align="left">(3)教学楼及其他可能出现人员密集的情况</td>
-           <td align="center">3.5</td>
-           <td align="center">0.7</td>
-		     <td align="center">0.5</td>
-           <td align="center">0.3</td>
-		   </tr>  
-         <tr>
-		     <td  rowspan="2" align="center" id="dhbg">11</td>
-		     <td  width=100px rowspan="2" align="center" id="dhbg">楼梯</td>
-           <td  width=300px align="left">(1) 多层住宅</td>
-           <td align="center">2.0</td>
-           <td align="center">0.7</td>
-		     <td align="center">0.5</td>
-           <td align="center">0.4</td>
-		   </tr> 
-          <tr>
-		    <!-- <td></td> -->
-          <!-- <td></td> -->
-		     <td align="left">(2) 其他</td>
-           <td align="center">3.5</td>
-           <td align="center">0.7</td>
-		     <td align="center">0.5</td>
-           <td align="center">0.3</td>
-		   </tr> 
-         <tr>
-		     <td  rowspan="2" align="center" id="dhbg">12</td>
-		     <td  width=100px rowspan="2" align="center" id="dhbg">阳台</td>
-           <td  width=300px align="left">(1) 可能出现人员密集的情况</td>
-           <td align="center">3.5</td>
-           <td align="center">0.7</td>
-		     <td align="center">0.6</td>
-           <td align="center">0.5</td>
-		   </tr> 
-          <tr>
-		    <!-- <td></td> -->
-          <!-- <td></td> -->
-		     <td align="left">(2) 其他</td>
-           <td align="center">2.5</td>
-           <td align="center">0.7</td>
-		     <td align="center">0.6</td>
-           <td align="center">0.5</td>
-		   </tr>                                          	
-		</table>
-    <p></p>
-
-		<table id="biaoge" style="font-family:times new roman">
-
-         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.2.3">表4.2.3 汽车通道及客车停车库的楼面均布活荷载</b></caption>	
-              
-		    <tr>
-		      <td  colspan="2" align="center" id="dhbg">类别</td>
-            <!-- <td></td> -->
-            <td width=100px align="center">标准值<br/>(kN/m<sup>2</sup>)</td>
-            <td width=100px align="center">组合值<br/>系数ψ<sub>c</sub></td>
-		      <td width=100px align="center">频遇值<br/>系数ψ<sub>f</sub></td>
-            <td width=120px align="center">准永久值<br/>系数ψ<sub>q</sub></td>
-		    </tr>
-	     <tr>
-		     <td width=200px  rowspan="2" align="center" id="dhbg">单向板楼盖<br/>(2m≤板跨<i>L</i>)</td>
-		     <td width=300px  align="left"id="dhbg">定员不超过9人的小型客车</td>
-           <td align="center"id="dhbg">4.0</td>
-           <td align="center"id="dhbg">0.7</td>
-		     <td align="center"id="dhbg">0.7</td>
-            <td align="center"id="dhbg">0.6</td>
-		   </tr>
-       <tr>
-		    <!-- <td></td> -->
-		     <td  align="left"id="dhbg">满载总重不大于300 kN 的消防车</td>
-           <td align="center"id="dhbg">35.0</td>
-           <td align="center"id="dhbg">0.7</td>
-		     <td align="center"id="dhbg">0.5</td>
-            <td align="center"id="dhbg">0.0</td>
-		   </tr>   
-	     <tr>
-		     <td width=300px  rowspan="2" align="center" id="dhbg">双向板楼盖<br/>(3m≤板跨短边<i>L</i>< 6 m)</td>
-		     <td align="left"id="dhbg">定员不超过9人的小型客车</td>
-           <td align="center"id="dhbg">5.5-0.5<i>L</i></td>
-           <td align="center"id="dhbg">0.7</td>
-		     <td align="center"id="dhbg">0.7</td>
-            <td align="center"id="dhbg">0.6</td>
-		   </tr>
-       <tr>
-		    <!-- <td></td> -->
-		     <td  align="left"id="dhbg">满载总重不大于300 kN 的消防车</td>
-           <td align="center"id="dhbg">50.0-5.0<i>L</i></td>
-           <td align="center"id="dhbg">0.7</td>
-		     <td align="center"id="dhbg">0.5</td>
-            <td align="center"id="dhbg">0.0</td>
-		   </tr>  
-	     <tr>
-		     <td width=300px  rowspan="2" align="center" id="dhbg">双向板楼盖<br/>(6m≤板跨短边<i>L</i>)<br/>和无梁楼盖<br/>（柱网不小于6 m×6 m）</td>
-		     <td align="left"id="dhbg">定员不超过9人的小型客车</td>
-           <td align="center"id="dhbg">2.5</td>
-           <td align="center"id="dhbg">0.7</td>
-		     <td align="center"id="dhbg">0.7</td>
-            <td align="center"id="dhbg">0.6</td>
-		   </tr>
-       <tr>
-		    <!-- <td></td> -->
-		     <td  align="left"id="dhbg">满载总重不大于300 kN 的消防车</td>
-           <td align="center"id="dhbg">20.0</td>
-           <td align="center"id="dhbg">0.7</td>
-		     <td align="center"id="dhbg">0.5</td>
-            <td align="center"id="dhbg">0.0</td>
-		   </tr>                 
-      </table>  
-      <p></p>  
-
- <p style="text-align:justify"><a href="#id4.2.4"> 4.2.4</a> <span id="id4.2.4"> 当采用楼面等效均布活荷载方法设计楼面梁时，本规范<a href="#B4.2.2">表4.2.2</a>和<a href="#B4.2.3">表4.2.3</a>中的楼面活荷载标准值的折减系数取值不应小于下列规定值：</span></p>
+ <p style="text-align:justify"><a href="#id4.2.1"> 4.2.1</a> <span id="id4.2.1"> 码头原型观测的测点布置应满足下列要求。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.1.1"> 4.2.1.1</a> <span id="id4.2.1.1">  平变位、垂直变位、倾斜、土压力或基底压力、墙后水压力、孔隙水压力、混凝土结构应力、钢结构应力、振动等观测项目的测点可设置在码头堆载较大区域或堆载变化幅度较大的区域。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.1.2"> 4.2.1.2</a> <span id="id4.2.1.2">  码头整体稳定性、地基应力、沉降等项目的测点应布置在竖向荷载以及水平荷载都较大的区域。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.1.3"> 4.2.1.3</a> <span id="id4.2.1.3">  外观、冻融、腐蚀等观测项目的测点可设置在浪溅区或水位变动区。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.1.4"> 4.2.1.4</a> <span id="id4.2.1.4">  波浪力、水流力、船舶力、冰压力等观测项目的测点可设置在受力明显、易于观测的代表性部位。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.1.5"> 4.2.1.5</a> <span id="id4.2.1.5">  岸坡的水平变位、垂直变位等测点应根据荷载情况和影响岸坡整体稳定的部位综合确定。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.2"> 4.2.2</a> <span id="id4.2.2"> 高桩码头的观测设计应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.2.1"> 4.2.2.1</a> <span id="id4.2.2.1"> 高桩码头的原型观测宜选择外部荷载较大、地质条件复杂的排架作为观测对象，每个码头选择的排架数量不宜少于2个。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.2.2"> 4.2.2.2</a> <span id="id4.2.2.2"> 观测高桩码头基桩、梁、板等关键部位的应力时，宜选择应力较大的相邻3个排架作为观测对象。观测点设置应满足下列要求：</span></p>
  <ol>
- <li style="text-align:justify"><a href="#B4.2.2">表4.2.2</a>中第1（1）项当楼面梁从属面积不超过25㎡（含）时，不应折减；超过25㎡时，不应小于0.9；</li>
- <li style="text-align:justify"><a href="#B4.2.2">表4.2.2</a>中第1（2）~7项当楼面梁从属面积不超过50㎡（含）时，不应折减；超过50㎡时，不应小于0.9；</li>
- <li style="text-align:justify"><a href="#B4.2.2">表4.2.2</a>中第8 ~ 12项应采用与所属房屋类别相同的折减系数；</li>
- <li style="text-align:justify"><a href="#B4.2.3">表4.2.3</a>对单向板楼盖的次梁和槽形板的纵肋不应小于0.8，对单向板楼盖的主梁不应小于0.6，对双向板楼盖的梁不应小于0.8。</li>
- </ol>
- <p style="text-align:justify"><a href="#id4.2.5"> 4.2.5</a> <span id="id4.2.5"> 当采用楼面等效均布活荷载方法设计墙、柱和基础时，折减系数取值应符合下列规定：</span></p>
+ <li style="text-align:justify"> 对于基桩，测点布置在桩身弯矩较大处，存在负摩擦作用的基桩测点布置在中性点及以上位置；</li>
+ <li style="text-align:justify"> 对于码头梁和面板，测点布置在内力较大部位。</li>
+ </ol> 
+ <p style="text-align:justify"><a href="#id4.2.2.3"> 4.2.2.3</a> <span id="id4.2.2.3"> 高桩码头在使用期出现下列情况之一时，应进行上部结构与基桩应力观测、码头变位与变形观测：</span></p>
  <ol>
- <li style="text-align:justify"><a href="#B4.2.2">表4.2.2</a>中第1（1）项单层建筑楼面梁的从属面积超过25㎡时不应小于0.9，其他情况应按<a href="#B4.2.5">表4.2.5</a>规定采用；</li>
- <li style="text-align:justify"><a href="#B4.2.2">表4.2.2</a>中第1（2）～7项应采用与其楼面梁相同的折减系数；</li>
- <li style="text-align:justify"><a href="#B4.2.2">表4.2.2</a>中第8～12项应采用与所属房屋类别相同的折减系数；</li>
- <li style="text-align:justify">应根据实际情况决定是否考虑<a href="#B4.2.3">表4.2.3</a>中的消防车荷载；对<a href="#B4.2.3">表4.2.3</a>中的客车，对单向板楼盖不应小于0.5，对双向板楼盖和无梁楼盖不应小于0.8。</li>
+ <li style="text-align:justify"> 当码头后方有大面积回填、临时堆载、打桩施工或码头前沿开挖时；</li>
+ <li style="text-align:justify"> 设计荷载改变时；</li>
+ <li style="text-align:justify"> 码头发生事故影响结构安全时。</li>
  </ol>
- <table id="biaoge" style="font-family:times new roman">
 
-         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.2.5">表4.2.5 活荷载按楼层的折减系数</b></caption>	
-              
-		    <tr>
-		      <td width=400px align="center" id="dhbg">墙、柱、基础计算截面以上的层数</td>
-		      <td width=100px align="center" id="dhbg">2 ~ 3</td>
-            <td width=100px align="center" id="dhbg">4 ~ 5</td>
-            <td width=100px align="center" id="dhbg">6 ~ 8</td>
-            <td width=100px align="center" id="dhbg">9 ~ 20</td>
-            <td width=100px align="center" id="dhbg">> 20</td>
-		    </tr>
- 		    <tr>
-		      <td align="center" id="dhbg">计算截面以上各楼层活荷载总和的折减系数</td>
-		      <td align="center" id="dhbg">0.85</td>
-            <td align="center" id="dhbg">0.70</td>
-            <td align="center" id="dhbg">0.65</td>
-            <td align="center" id="dhbg">0.60</td>
-            <td align="center" id="dhbg">0.55</td>
-		    </tr>         
-       </table>  
-      <p></p> 
+
+ <p style="text-align:justify"><a href="#id4.2.3"> 4.2.3</a> <span id="id4.2.3"> 堆载较大或堆载变化幅度较大的重力式码头，宜观测墙后土压力或基底压力。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.4"> 4.2.4</a> <span id="id4.2.4"> 板桩码头的观测设计应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.4.1"> 4.2.4.1</a> <span id="id4.2.4.1">  板桩墙的水平变位、垂直变位、倾斜等测点宜布置在锚碇点、墙顶和计算最大弯矩处。锚碇结构的水平变位、垂直变位等测点宜布置在其顶部。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.4.2"> 4.2.4.2</a> <span id="id4.2.4.2">  当锚碇采用锚碇墙时，宜观测锚碇墙前后的侧压力，当锚碇采用锚碇桩时，宜观测锚碇桩轴力和弯矩。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.4.3"> 4.2.4.3</a> <span id="id4.2.4.3">  观测板桩码头拉杆应力时，应选择拉力较大的区域，观测数量不宜少于4根；对于遮帘式板桩码头，应分别对前板桩墙和遮帘桩之间的拉杆、遮帘桩和锚碇墙之间的拉杆进行应力观测，观测数量均不宜少于4根。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.4.4"> 4.2.4.4</a> <span id="id4.2.4.4">  遮帘式板桩码头宜进行前墙、遮帘桩变位及桩身变形观测，桩身变形测点应从桩底部延续至桩顶。观测遮帘式板桩码头土压力时，测点宜布置于前墙后侧、遮帘桩和锚碇结构构件的两侧。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.5"> 4.2.5</a> <span id="id4.2.5"> 观测格形钢板桩码头锁口环向应力时，应力观测点应布置在板桩环向拉应力较大的部位，并宜从板桩底部延伸至顶部布置。应力较大的区域宜加密布置。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.6"> 4.2.6</a> <span id="id4.2.6"> 当斜坡码头的架空坡道、固定引桥的桥墩或上部结构承受较大横向作用时，宜在构件应力较大部位设置测点。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.7"> 4.2.7</a> <span id="id4.2.7"> 浮码头的观测设计应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.7.1"> 4.2.7.1</a> <span id="id4.2.7.1"> 浮码头的架空坡道、固定引桥的桥墩或上部结构承受较大横向作用时，宜在构件应力较大部位设置测点。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.7.2"> 4.2.7.2</a> <span id="id4.2.7.2"> 观测浮码头的趸船系留设施结构应力时，同类构件的观测数量不宜少于2个，测点应布置于荷载较大区域，且不应少于2个。</span></p>
+
 
 4.3 防波堤和护岸
 ----------------------
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id4.3.1"> 4.3.1</a> <span id="id4.3.1"> 公路桥梁人群荷载标准值应按下列规定采用：</span></p>
- <ol>
- <li style="text-align:justify">人群荷载标准值应按<a href="#B4.3.1">表4.3.1</a>采用，对跨径不等的连续结构，以最大计算跨径为准；</li>
- </ol>
-
- <table id="biaoge" style="font-family:times new roman">
-
-    <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.3.1"> 表4.3.1 人群荷载标准值取值</b></caption>	
-              
-		    <tr>
-		      <td width=300px align="center">计算跨径 <i>L</i><sub>0</sub>（m）</td>
-          <td width=150px align="center"><i>L</i><sub>0</sub> ≤ 50</td>
-          <td width=300px align="center">50 < <i>L</i><sub>0</sub> < 150</td>
-		      <td width=150px align="center"><i>L</i><sub>0</sub> ≥ 150</td>
-		    </tr>
-		    <tr>
-		      <td width=300px align="center">人群荷载 （kN/m<sup>2</sup>）</td>
-          <td width=150px align="center">3.0</td>
-          <td width=300px align="center">3.25-0.005 <i>L</i><sub>0</sub></td>
-		      <td width=150px align="center">2.5</td>
-		    </tr>
-       </table>  
-      <p></p> 
-
- <ol start="2">
- <li style="text-align:justify">非机动车、行人密集的公路桥梁，人群荷载标准值取上述标准值的1.15倍；</li>
- <li style="text-align:justify">专用人行桥梁，人群荷载标准值为3.5kN/m<sup>2</sup>。</li>
- <p style="text-align:justify"><a href="#id4.3.2"> 4.3.2</a> <span id="id4.3.2"> 作用于港口工程结构上的人群荷载标准值，应按<a href="#B4.3.2">表4.3.2</a>采用，设计人行引桥、浮桥时，尚应以集中力1.6kN为标准值对人行通道板的构件进行验算。</span></p>
-
- <table id="biaoge" style="font-family:times new roman">
-
-    <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.3.2"> 表4.3.2 人群荷载标准值</b></caption>	
-              
-		    <tr>
-		      <td width=300px align="center">建筑物类别</td>
-          <td width=300px align="center">人群荷载标准值(kN/m<sup>2</sup>)</td>
-          <td width=300px align="center">说明</td>
-		    </tr>
-		    <tr>
-		      <td  align="center">客班轮码头及引桥</td>
-          <td  align="center">4~5</td>
-          <td  align="center">—</td>
-		    </tr>
-		    <tr>
-		      <td  align="center" rowspan="2">人行引桥或浮桥</td>
-          <td  align="center">3</td>
-          <td  align="center">任性通道宽度 ≥ 1.2 m</td>
-		    </tr> 
-		    <tr>
-		     <!-- <td></td> -->
-          <td  align="center">2</td>
-          <td  align="center">任性通道宽度＜1.2 m</td>
-		    </tr>                 
-       </table>  
-      <p></p> 
+ <p style="text-align:justify"><a href="#id4.3.1"> 4.3.1</a> <span id="id4.3.1"> </span></p> 
+ <p style="text-align:justify"><a href="#id4.3.2"> 4.3.2</a> <span id="id4.3.2"> </span></p> 
 
 4.4 修造船建筑物
 ----------------------
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id4.4.1"> 4.4.1</a> <span id="id4.4.1"> 港口码头使用的起重运输机械荷载标准值，应根据装卸工艺选用的机型和实际使用的起重量、幅度等确定。</span></p>
- <p style="text-align:justify"><a href="#id4.4.2"> 4.4.2</a> <span id="id4.4.2"> 厂房起重机荷载应按竖向荷载和水平荷载分别计算。其竖向荷载标准值，应按不利原则分别采用起重机的最大轮压或最小轮压；其水平荷载应分别按照纵向和横向水平荷载进行计算。</span></p>
- <p style="text-align:justify"><a href="#id4.4.3"> 4.4.3</a> <span id="id4.4.3"> 安装有多台起重机的厂房，应根据实际情况计算参与组合的起重机数量，并对起重机荷载标准值进行折减。</span></p>
+ <p style="text-align:justify"><a href="#id4.4.1"> 4.4.1</a> <span id="id4.4.1"> </span></p> 
+ <p style="text-align:justify"><a href="#id4.4.2"> 4.4.2</a> <span id="id4.4.2"> </span></p> 
+ <p style="text-align:justify"><a href="#id4.4.3"> 4.4.3</a> <span id="id4.4.3"> </span></p>   
+
 
 4.5 通航建筑物
 ----------------------
+
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id4.5.1"> 4.5.1</a> <span id="id4.5.1"> 屋面水平投影面上的雪荷载标准值应为屋面积雪分布系数和基本雪压的乘积。</span></p>
- <p style="text-align:justify"><a href="#id4.5.2"> 4.5.2</a> <span id="id4.5.2"> 基本雪压应根据空旷平坦地形条件下的降雪观测资料，采用适当的概率分布模型，按50年重现期进行计算。对雪荷载敏感的结构，应按照100年重现期雪压和基本雪压的比值，提高其雪荷载取值。</span></p>
- <p style="text-align:justify"><a href="#id4.5.3"> 4.5.3</a> <span id="id4.5.3"> 确定基本雪压时，应以年最大雪压观测值为分析基础；当没有雪压观测数据时，年最大雪压计算值应表示为地区平均等效积雪密度、年最大雪深观测值和重力加速度的乘积。</span></p>
- <p style="text-align:justify"><a href="#id4.5.4"> 4.5.4</a> <span id="id4.5.4"> 屋面积雪分布系数应根据屋面形式确定，并应同时考虑均匀分布和非均匀分布等各种可能的积雪分布情况。屋面积雪的滑落不受阻挡时，积雪分布系数在屋面坡度大于等于60°时应为0。</span></p>
- <p style="text-align:justify"><a href="#id4.5.5"> 4.5.5</a> <span id="id4.5.5"> 当考虑周边环境对屋面积雪的有利影响而对积雪分布系数进行调整时，调整系数不应低于0.90。</span></p>
- <p style="text-align:justify"><a href="#id4.5.6"> 4.5.6</a> <span id="id4.5.6"> 计算塔桅结构、输电塔和钢索等结构的覆冰荷载时，应根据覆冰厚度及覆冰的物理特性确定其荷载值。计算覆冰条件下结构的风荷载，应考虑覆冰造成的挡风面积增加和风阻系数变化的不利影响，并应评估覆冰造成的动力效应。当下方可能有行人经过时，尚应对覆冰坠落风险进行评价并采取相应措施。</span></p>
- <p style="text-align:justify"><a href="#id4.5.7"> 4.5.7</a> <span id="id4.5.7"> 雪荷载的组合值系数应取0.7，频遇值系数应取0.6，准永久值系数应根据气候条件的不同，分别取0.5、0.2和0。</span></p>
+ <p style="text-align:justify"><a href="#id4.5.1"> 4.5.1</a> <span id="id4.5.1"> </span></p> 
+ <p style="text-align:justify"><a href="#id4.5.2"> 4.5.2</a> <span id="id4.5.2"> </span></p> 
+ <p style="text-align:justify"><a href="#id4.5.3"> 4.5.3</a> <span id="id4.5.3"> </span></p> 
+ <p style="text-align:justify"><a href="#id4.5.4"> 4.5.4</a> <span id="id4.5.4"> </span></p> 
+ <p style="text-align:justify"><a href="#id4.5.5"> 4.5.5</a> <span id="id4.5.5"> </span></p>     
+
 
 
 4.6 航道整治建筑物
 ----------------------
 
-.. raw:: html
+.. raw:: html  
 
- <p style="text-align:justify"><a href="#id4.6.1"> 4.6.1</a> <span id="id4.6.1"> 垂直于建筑物表面上的风荷载标准值，应在基本风压、风压高度变化系数、风荷载体型系数、地形修正系数和风向影响系数的乘积基础上，考虑风荷载脉动的增大效应加以确定。</span></p>
- <p style="text-align:justify"><a href="#id4.6.2"> 4.6.2</a> <span id="id4.6.2"> 基本风压应根据基本风速值进行计算，且其取值不得低于0.30kN/m<sup>2</sup>。基本风速应通过将标准地面粗糙度条件下观测得到的历年最大风速记录，统一换算为离地10m高10min平均年最大风速之后，采用适当的概率分布模型，按50年重现期计算得到。</span></p>
- <p style="text-align:justify"><a href="#id4.6.3"> 4.6.3</a> <span id="id4.6.3"> 风压高度变化系数应根据建设地点的地面粗糙度确定。地面粗糙度应以结构上风向一定距离范围内的地面植被特征和房屋高度、密集程度等因素确定，需考虑的最远距离不应小于建筑高度的20倍且不应小于2000m。标准地面粗糙度条件应为周边无遮挡的空旷平坦地形，其10m高处的风压高度变化系数应取1.0。</span></p>
- <p style="text-align:justify"><a href="#id4.6.4"> 4.6.4</a> <span id="id4.6.4"> 体型系数应根据建筑外形、周边干扰情况等因素确定。</span></p>
- <p style="text-align:justify"><a href="#id4.6.5"> 4.6.5</a> <span id="id4.6.5"> 当采用风荷载放大系数的方法考虑风荷载脉动的增大效应时，风荷载放大系数应按下列规定采用：</span></p>
- <ol>
- <li style="text-align:justify">主要受力结构的风荷载放大系数应根据地形特征、脉动风特性、结构周期、阻尼比等因素确定，其值不应小于1.2；</li>
- <li style="text-align:justify">围护结构的风荷载放大系数应根据地形特征、脉动风特性和流场特征等因素确定，且不应小于<math xmlns='http://www.w3.org/1998/Math/MathML'> <mi> 1 </mi> <mo> + </mo> <mfrac> <mrow> <mi> 0.7 </mi> </mrow> <mrow> <msqrt> <msub> <mrow> <mi> μ </mi> </mrow> <mrow> <mn> z </mn> </mrow> </msub> </msqrt> </mrow> </mfrac> </math>，其中μ<sub>z</sub>为风压高度变化系数。</li>
- </ol>
- <p style="text-align:justify"><a href="#id4.6.6"> 4.6.6</a> <span id="id4.6.6"> 地形修正系数应按下列规定采用：</span></p>
- <ol>
- <li style="text-align:justify">对于山峰和山坡等地形，应根据山坡全高、坡度和建筑物计算位置离建筑物地面的高度确定地形修正系数，其值不应小于1.0； </li>
- <li style="text-align:justify">对于山间盆地、谷地等闭塞地形，地形修正系数不应小于0.75； </li>
- <li style="text-align:justify">对于与风向一致的谷口、山口，地形修正系数不应小于1.20； </li>
- <li style="text-align:justify">其他情况，应取1.0。 </li>
- </ol>
- <p style="text-align:justify"><a href="#id4.6.7"> 4.6.7</a> <span id="id4.6.7"> 风向影响系数应按下列规定采用：</span></p>
-  <ol>
- <li style="text-align:justify">当有15年以上符合观测要求且可靠的风气象资料时，应按照极值理论的统计方法计算不同风向的风向影响系数。所有风向影响系数的最大值不应小于1.0，最小值不应小于0.8。 </li>
- <li style="text-align:justify">其他情况，应取1.0。 </li>
-  </ol>
- <p style="text-align:justify"><a href="#id4.6.8"> 4.6.8</a> <span id="id4.6.8"> 体型复杂、周边干扰效应明显或风敏感的重要结构应进行风洞试验。</span></p>
- <p style="text-align:justify"><a href="#id4.6.9"> 4.6.9</a> <span id="id4.6.9"> 当新建建筑可能使周边风环境发生较大改变时，应评估其对相邻既有建筑风环境和风荷载的不利影响并采取相应措施。</span></p>
- <p style="text-align:justify"><a href="#id4.6.10"> 4.6.10</a> <span id="id4.6.10"> 风荷载的组合值系数、频遇值系数和准永久值系数应分别取0.6、0.4和0。</span></p>
-
-
+ <p style="text-align:justify"><a href="#id4.6.1"> 4.6.1</a> <span id="id4.6.1"> </span></p> 
+ <p style="text-align:justify"><a href="#id4.6.1"> 4.6.1</a> <span id="id4.6.1"> </span></p> 
+ <p style="text-align:justify"><a href="#id4.6.1"> 4.6.1</a> <span id="id4.6.1"> </span></p> 
+ <p style="text-align:justify"><a href="#id4.6.1"> 4.6.1</a> <span id="id4.6.1"> </span></p>    
