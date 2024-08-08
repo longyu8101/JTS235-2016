@@ -10,23 +10,62 @@
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id10.1.1"> 10.1.1</a> <span id="id10.1.1"> 结构自重的标准值应按结构构件的设计尺寸与材料密度计算确定。对于自重变异较大的材料和构件，对结构不利时自重标准值取上限值，对结构有利时取下限值。</span></p>
- <p style="text-align:justify"><a href="#id10.1.2"> 10.1.2</a> <span id="id10.1.2"> 位置固定的永久设备自重应采用设备铭牌重量值；当无铭牌重量时，应按实际重量计算。</span></p>
- <p style="text-align:justify"><a href="#id10.1.3"> 10.1.3</a> <span id="id10.1.3"> 隔墙自重作为永久作用时，应符合位置固定的要求；位置可灵活布置的轻质隔墙自重应按可变荷载考虑。</span></p>
-
-
+ <p style="text-align:justify"><a href="#id10.1.1"> 10.1.1</a> <span id="id10.1.1"> 水工建筑物腐蚀观测应包括混凝土结构腐蚀观测和钢结构腐蚀观测等内容。</span></p>
+ <p style="text-align:justify"><a href="#id10.1.2"> 10.1.2</a> <span id="id10.1.2"> 水工建筑物腐蚀观测应根据观测要求选择收集下列相关资料：</span></p>
+ <ol>
+ <li>环境水的含盐量和生物附着情况；</li>
+ <li>水文和气象条件；</li>
+ <li>工程设计和施工情况；</li>
+ <li>工程运行情况；</li>
+ <li>结构已采取的防腐蚀措施等。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id10.1.3"> 10.1.3</a> <span id="id10.1.3"> 腐蚀观测测点布置应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#id10.1.3.1"> 10.1.3.1</a> <span id="id10.1.3.1"> 腐蚀观测点应根据腐蚀环境、结构形式、构件类型等具体情况布置。对腐蚀劣化易发区应重点观测，适当增加测点和加大观测频次。</span></p>
+ <p style="text-align:justify"><a href="#id10.1.3.2"> 10.1.3.2</a> <span id="id10.1.3.2"> 氯盐腐蚀环境下混凝土结构腐蚀观测应重点观测浪溅区和水位变动区。</span></p>
+ <p style="text-align:justify"><a href="#id10.1.3.3"> 10.1.3.2</a> <span id="id10.1.3.3"> 钢结构腐蚀观测应重点观测浪溅区和水位变动区</span></p>
+ <p style="text-align:justify"><a href="#id10.1.3.4"> 10.1.3.4</a> <span id="id10.1.3.4"> 腐蚀观测应重点观测使用过程中应力较大的部位。</span></p> 
 
 10.2 混凝土结构腐蚀观测
 ---------------------------
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id10.2.1"> 10.2.1</a> <span id="id10.2.1"> 水平变位观测可分为表面水平变位观测和内部水平变位观测。</span></p>
- <p style="text-align:justify"><a href="#id10.2.2"> 10.2.2</a> <span id="id10.2.2"> 水平变位观测的测点设置应符合下列规定。</span></p>
- <p style="text-align:justify"><a href="#id10.2.3"> 10.2.3</a> <span id="id10.2.3"> 水平变位观测方法应符合下列规定。</span></p>
- <p style="text-align:justify"><a href="#id10.2.4"> 10.2.4</a> <span id="id10.2.4"> 水平变位观测周期，第一年可3~6个月观测1次；以后可1~2年观测1次；同一观测点应同时进行垂直变位观测。对水平变位比较敏感的水工建筑物可加密观测。</span></p>
- <p style="text-align:justify"><a href="#id10.2.5"> 10.2.5</a> <span id="id10.2.5"> 水平变位观测的精度应符合表6.1.4的规定。</span></p>
- <p style="text-align:justify"><a href="#id10.2.6"> 10.2.6</a> <span id="id10.2.6"> 水平变位观测应提交下列成果：</span></p>
+ <p style="text-align:justify"><a href="#id10.2.1"> 10.2.1</a> <span id="id10.2.1"> 混凝土结构腐蚀观测应包括下列内容：</span></p>
+ <ol>
+ <li>外观检查，包括锈蚀、锈斑、空鼓、混凝土剥落、涂层剥落与老化、钢筋锈蚀程度和混凝土裂缝；</li>
+ <li>钢筋锈蚀检查；</li>
+ <li>混凝土保护层厚度测定；</li>
+ <li>混凝土构件碳化深度测定；</li>
+ <li>混凝土构件中不同深度氯离子含量测定。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id10.2.2"> 10.2.2</a> <span id="id10.2.2"> 混凝土结构腐蚀观测点的设置应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#id10.2.2.1"> 10.2.2.1</a> <span id="id10.2.2.1"> 钢筋锈蚀检查应根据观测目的和要求设置观测点。</span></p>
+ <p style="text-align:justify"><a href="#id10.2.2.2"> 10.2.2.2</a> <span id="id10.2.2.2"> 混凝土保护层厚度测定，应抽取同类构件总数量的2%不少于10个构件作为测定样本，每个样本构件上应设不少于10个观测点且应均匀分布。</span></p>
+ <p style="text-align:justify"><a href="#id10.2.2.3"> 10.2.2.3</a> <span id="id10.2.2.3"> 混凝土构件碳化深度的测定，应抽取不少于5个构件作为测定样本，每个样本构件上应随机抽取不少于10个观测点。</span></p>
+ <p style="text-align:justify"><a href="#id10.2.2.4"> 10.2.2.4</a> <span id="id10.2.2.4"> 混凝土构件中不同深度氯离子含量的测定，应随机抽取3个构件作为测定样本，在每个样本构件上应设置不少于3个取样点。</span></p>
+ <p style="text-align:justify"><a href="#id10.2.3"> 10.2.3</a> <span id="id10.2.3"> 混凝土结构腐蚀观测方法应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#id10.2.3.1"> 10.2.3.1</a> <span id="id10.2.3.1"> 构件外观检查可采用照相、录像和文字描述的方法。</span></p>
+ <p style="text-align:justify"><a href="#id10.2.3.2"> 10.2.3.2</a> <span id="id10.2.3.2"> 检查钢筋锈蚀状况可采用敲击法或混凝土钢筋半电池电位测定法。</span></p>
+ <p style="text-align:justify"><a href="#id10.2.3.3"> 10.2.3.3</a> <span id="id10.2.3.3"> 构件中混凝土保护层厚度测定应采用非破损检测法，并应采用局部破损法进行校核。</span></p>
+ <p style="text-align:justify"><a href="#id10.2.3.4"> 10.2.3.4</a> <span id="id10.2.3.4"> 混凝土构件碳化深度的测定可采用钻孔酚酞滴定法。</span></p>
+ <p style="text-align:justify"><a href="#id10.2.3.5"> 10.2.3.5</a> <span id="id10.2.3.5"> 混凝土构件中不同深度氯离子含量的测定可采用干作业法、混凝土氯离子总含量测定法或现场快速检测法等。</span></p>
+ <p style="text-align:justify"><a href="#id10.2.4"> 10.2.4</a> <span id="id10.2.4"> 混凝土结构腐蚀观测在建筑物使用期间宜每2年进行1次，必要时应加密观测。</span></p>
+ <p style="text-align:justify"><a href="#id10.2.5"> 10.2.5</a> <span id="id10.2.5"> 混凝土结构腐蚀观测精度应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#id10.2.5.1"> 10.2.5.1</a> <span id="id10.2.5.1"> 采用钢筋半电池电位检测钢筋锈蚀状况时，测定偏差不得大于10 mV。</span></p>
+ <p style="text-align:justify"><a href="#id10.2.5.2"> 10.2.5.2</a> <span id="id10.2.5.2"> 混凝土保护层厚度检测精度不应低于I mm。</span></p>
+ <p style="text-align:justify"><a href="#id10.2.5.3"> 10.2.5.3</a> <span id="id10.2.5.3"> 混凝土碳化深度测量精度不应低于0.5 mm。</span></p>
+ <p style="text-align:justify"><a href="#id10.2.6"> 10.2.6</a> <span id="id10.2.6"> 混凝土结构腐蚀观测应提交下列成果：</span></p>
+ <ol>
+ <li>混凝土结构腐蚀观测取样点和观测点分布图；</li>
+ <li>外观检查资料：</li>
+ <li>检查、测定记录表；</li>
+ <li>混凝土保护层与钢筋剥离的面积及钢筋腐蚀活动区域判断；</li>
+ <li>混凝土保护层厚度统计值；</li>
+ <li>混凝土构件碳化深度测定结果；</li>
+ <li>混凝土构件中不同深度氯离子含量分布图；</li>
+ <li>与其他相关因素的关系资料；</li>
+ <li>观测成果分析。</li>
+ </ol>
 
 
 10.3 钢结构腐蚀观测
@@ -34,11 +73,36 @@
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id10.3.1"> 10.3.1</a> <span id="id10.3.1"> 垂直变位观测可分为表面垂直变位观测和内部垂直变位观测。</span></p>
- <p style="text-align:justify"><a href="#id10.3.2"> 10.3.2</a> <span id="id10.3.2"> 垂直变位观测点的设置应符合下列规定。</span></p>
- <p style="text-align:justify"><a href="#id10.3.3"> 10.3.3</a> <span id="id10.3.3"> 垂直变位观测方法应符合下列规定。</span></p>
- <p style="text-align:justify"><a href="#id10.3.4"> 10.3.4</a> <span id="id10.3.4"> 垂直变位观测周期，除有特殊要求外，第一年宜每季度观测1次，第二年宜每半年观测1次，第三年后宜每年观测1次，直至稳定为止。当建筑物出现异常变位时应加密观测。</span></p>
- <p style="text-align:justify"><a href="#id10.3.5"> 10.3.5</a> <span id="id10.3.5"> 垂直变位观测精度应符合下列规定。</span></p>
- <p style="text-align:justify"><a href="#id10.3.6"> 10.3.6</a> <span id="id10.3.6"> 直变位观测应提交下列成果：</span></p>     
-
+ <p style="text-align:justify"><a href="#id10.3.1"> 10.3.1</a> <span id="id10.3.1"> 钢结构腐蚀观测应包括下列内容：</span></p>
+ <ol>
+ <li>外观检查，包括钢结构锈蚀部位、锈蚀面积和锈蚀深度，涂层表面变化及剥蚀状况，牺牲阳极腐蚀和缺失状况，外加电流保护系统的电缆损坏情况等；</li> 
+ <li>外加电流阴极保护系统钢结构的保护电位测定；</li> 
+ <li>牺牲阳极保护系统钢结构的保护电位测定；</li> 
+ <li>钢结构构件蚀余厚度测定。</li> 
+ </ol>
+ <p style="text-align:justify"><a href="#id10.3.2"> 10.3.2</a> <span id="id10.3.2"> 钢结构腐蚀观测点的设置应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#id10.3.2.1"> 10.3.2.1</a> <span id="id10.3.2.1"> 采用外加电流阴极保护系统的钢结构，应按现行行业标准《海港工程钢结构防腐蚀技术规范》(JTS 153—3)的有关规定执行。</span></p>
+ <p style="text-align:justify"><a href="#id10.3.2.2"> 10.3.2.2</a> <span id="id10.3.2.2"> 采用牺牲阳极保护系统的钢结构保护电位的测定，应在距离每个牺牲阳极保护范围最近处和最远处各设置1个观测点。</span></p>
+ <p style="text-align:justify"><a href="#id10.3.2.3"> 10.3.2.3</a> <span id="id10.3.2.3"> 钢结构构件蚀余厚度的测定，应抽取构件总数量的2%不少于10个构件作为测定样本，每一样本构件上的观测点不应少于10个且应均匀分布。</span></p>
+ <p style="text-align:justify"><a href="#id10.3.3"> 10.3.3</a> <span id="id10.3.3"> 钢结构腐蚀观测方法应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#id10.3.3.1"> 10.3.3.1</a> <span id="id10.3.3.1"> 构件外观检查可采用照相、录像和文字描述的方法。</span></p>
+ <p style="text-align:justify"><a href="#id10.3.3.2"> 10.3.3.2</a> <span id="id10.3.3.2"> 采用外加电流阴极保护系统或采用牺牲阳极保护系统钢结构的保护电位测定，应按现行行业标准《海港工程钢结构防腐蚀技术规范》(JTS 153—3)的有关规定执行。</span></p>
+ <p style="text-align:justify"><a href="#id10.3.3.3"> 10.3.3.3</a> <span id="id10.3.3.3"> 钢结构构件蚀余厚度测定宜采用超声波法。</span></p>
+ <p style="text-align:justify"><a href="#id10.3.4"> 10.3.4</a> <span id="id10.3.4"> 钢结构腐蚀观测应在其建成投产后每年进行1次。</span></p>
+ <p style="text-align:justify"><a href="#id10.3.5"> 10.3.5</a> <span id="id10.3.5"> 钢结构腐蚀观测精度应满足下列要求：</span></p>
+ <ol>
+ <li>参比电极的允许偏差为±20 mV;</li> 
+ <li>保护电位测定的允许偏差为±1 mV;</li> 
+ <li>蚀余厚度测定的允许偏差为±1 mm。</li> 
+ </ol>
+ <p style="text-align:justify"><a href="#id10.3.6"> 10.3.6</a> <span id="id10.3.6"> 钢结构腐蚀观测应提交下列成果：</span></p>   
+ <ol>
+ <li>观测点布置图；</li>
+ <li>外观检查资料；</li>
+ <li>外加电流阴极保护系统钢结构保护电位测定结果；</li>
+ <li>牺牲阳极保护系统钢结构保护电位测定结果；</li>
+ <li>不同部位钢结构构件蚀余厚度测定结果；</li>
+ <li>与其他相关因素的关系资料；</li>
+ <li>观测成果分析。</li>  
+ </ol>
 

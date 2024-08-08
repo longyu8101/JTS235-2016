@@ -5,20 +5,34 @@
 
 
 
-中华人民共和国国家标准
+.. raw:: html
+
+  <b><font size="5">中华人民共和国行业标准</font></b>
+
+ <p></p>
  
 水运工程水工建筑物原型观测技术规范
 =========================================
 
-
-
 .. raw:: html
 
-  <h2 id="test111">水运工程水工建筑物原型观测技术规范</h2>
+ <p></p>
+
+  <h1 id="test111" ><font size="6"><br/><br/><br/>水运工程水工建筑物原型观测技术规范</font></h1>
+
+
+
+
+ <b><br/><br/><br/><font size="4"> JTS 235—2016</font></b>
+
+ <p></p>
+
+
+
 
  
   
-  JTS 235—2016
+ 
 
 
 
@@ -79,4 +93,23 @@
     11
     FLA
     bzml
+    fjsm
+    qcmd
+
+.. toctree::
+    :caption: 条文说明
+    :maxdepth: 3
+    :hidden:
+    
+    twsm/t01
+    twsm/t03
+    twsm/t04
+    twsm/t05
+    twsm/t06
+    twsm/t07
+    twsm/t08
+    twsm/t09
+    twsm/t10
+    twsm/t11
+
    

@@ -78,17 +78,28 @@
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id4.3.1"> 4.3.1</a> <span id="id4.3.1"> </span></p> 
- <p style="text-align:justify"><a href="#id4.3.2"> 4.3.2</a> <span id="id4.3.2"> </span></p> 
+ <p style="text-align:justify"><a href="#id4.3.1"> 4.3.1</a> <span id="id4.3.1"> 防波堤和护岸原型观测的测点设置应满足下列要求。</span></p> 
+ <p style="text-align:justify"><a href="#id4.3.1.1"> 4.3.1.1</a> <span id="id4.3.1.1"> 防波堤原型观测测点应根据水深、波浪、土质等条件综合考虑，选择最不利断面布置。</span></p> 
+ <p style="text-align:justify"><a href="#id4.3.1.2"> 4.3.1.2</a> <span id="id4.3.1.2"> 护岸的表面水平变位、内部水平变位、表面垂直变位、内部垂直变位观测点宜布置在同一断面。</span></p> 
+ <p style="text-align:justify"><a href="#id4.3.2"> 4.3.2</a> <span id="id4.3.2"> 护岸的观测设计应符合下列规定。</span></p> 
+ <p style="text-align:justify"><a href="#id4.3.2.1"> 4.3.2.1</a> <span id="id4.3.2.1"> 当护岸结构出现较大变形、明显凹陷、错动或裂缝时，应增加观测频次。</span></p> 
+ <p style="text-align:justify"><a href="#id4.3.2.2"> 4.3.2.2</a> <span id="id4.3.2.2">  护岸前沿冲刷较明显时，应进行护岸结构水下地形、后方水位和前方水流观测，必要时进行孔隙水压力观测。</span></p> 
 
 4.4 修造船建筑物
 ----------------------
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id4.4.1"> 4.4.1</a> <span id="id4.4.1"> </span></p> 
- <p style="text-align:justify"><a href="#id4.4.2"> 4.4.2</a> <span id="id4.4.2"> </span></p> 
- <p style="text-align:justify"><a href="#id4.4.3"> 4.4.3</a> <span id="id4.4.3"> </span></p>   
+ <p style="text-align:justify"><a href="#id4.4.1"> 4.4.1</a> <span id="id4.4.1">  船坞原型观测的测点设置应满足下列要求。</span></p> 
+ <p style="text-align:justify"><a href="#id4.4.1.1"> 4.4.1.1</a> <span id="id4.4.1.1">  坞底板垂直变位测点可布置于中轴线或有观测要求的部位。</span></p> 
+ <p style="text-align:justify"><a href="#id4.4.1.2"> 4.4.1.2</a> <span id="id4.4.1.2">  在观测坞墙、坞底板结构应力时，观测断面不应少于3个，观测点应布置在应力较大部位。</span></p> 
+ <p style="text-align:justify"><a href="#id4.4.2"> 4.4.2</a> <span id="id4.4.2">  船坞的观测设计应符合下列规定。</span></p> 
+ <p style="text-align:justify"><a href="#id4.4.2.1"> 4.4.2.1</a> <span id="id4.4.2.1">  观测船坞钢筋混凝土构件裂缝时，应根据构件受力和变形特点布置测点位置和数量；对有抗裂要求的部位，宜重点观测，必要时可增加测点数量。</span></p> 
+ <p style="text-align:justify"><a href="#id4.4.2.2"> 4.4.2.2</a> <span id="id4.4.2.2">  减压排水式船坞应进行基底应力、扬压力及排水量等观测。</span></p> 
+ <p style="text-align:justify"><a href="#id4.4.2.3"> 4.4.2.3</a> <span id="id4.4.2.3">  锚拉式船坞应进行锚桩、锚索或锚杆的应力观测，观测数量不宜少于总数的1且不少于5根。</span></p> 
+ <p style="text-align:justify"><a href="#id4.4.3"> 4.4.3</a> <span id="id4.4.3">  船台滑道原型观测的测点设置应满足下列要求。</span></p>   
+ <p style="text-align:justify"><a href="#id4.4.3.1"> 4.4.3.1</a> <span id="id4.4.3.1">  观测滑道及船台轨道基底压力、垂直变位时，测点应选择受力最大部位并紧贴轨道布置。</span></p>   
+ <p style="text-align:justify"><a href="#id4.4.3.2"> 4.4.3.2</a> <span id="id4.4.3.2">  观测滑道钢结构腐蚀或钢筋混凝土腐蚀时，测点应布置在水位变动区和浪溅区。</span></p>   
 
 
 4.5 通航建筑物
@@ -96,20 +107,48 @@
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id4.5.1"> 4.5.1</a> <span id="id4.5.1"> </span></p> 
- <p style="text-align:justify"><a href="#id4.5.2"> 4.5.2</a> <span id="id4.5.2"> </span></p> 
- <p style="text-align:justify"><a href="#id4.5.3"> 4.5.3</a> <span id="id4.5.3"> </span></p> 
- <p style="text-align:justify"><a href="#id4.5.4"> 4.5.4</a> <span id="id4.5.4"> </span></p> 
- <p style="text-align:justify"><a href="#id4.5.5"> 4.5.5</a> <span id="id4.5.5"> </span></p>     
+ <p style="text-align:justify"><a href="#id4.5.1"> 4.5.1</a> <span id="id4.5.1"> 船闸和升船机原型观测的测点应布置在能反映其受力和变形特征的观测断面上，观测断面可分为关键断面、重点断面、一般断面，并应满足下列要求：</span></p> 
+ 
+ <ol>
+ <li> 关键断面选取工程结构最为复杂或地质条件很差，对工程安全起控制作用的部位；</li>
+ <li> 重要断面通常选取工程结构比较复杂、地质条件较差或在设计时无成熟设计理论、设计方法、规程规范可循，对工程安全比较重要的部位；</li>
+ <li> 一般断面选取结构不复杂或地质条件较好，对工程安全影响不突出的部位。</li>
+ </ol>
 
+ <p style="text-align:justify"><a href="#id4.5.2"> 4.5.2</a> <span id="id4.5.2"> 船闸原型观测的断面设置应满足下列要求。</span></p> 
+ <p style="text-align:justify"><a href="#id4.5.2.1"> 4.5.2.1</a> <span id="id4.5.2.1"> 关键断面根据工程的实际情况可取1~2个。</span></p> 
+ <p style="text-align:justify"><a href="#id4.5.2.2"> 4.5.2.2</a> <span id="id4.5.2.2"> 单级船闸的下闸首或多级船闸各闸室的下闸首，与上游引航道的水域接通的闸首连同其上游的闸室墙，可按重要断面布置。重要断面的数量不应少于关键断面。</span></p> 
+ <p style="text-align:justify"><a href="#id4.5.2.3"> 4.5.2.3</a> <span id="id4.5.2.3"> 多级船闸其他各级闸室的闸墙，可作为一般断面。</span></p> 
+ <p style="text-align:justify"><a href="#id4.5.3"> 4.5.3</a> <span id="id4.5.3"> 船闸的观测设计应符合下列规定。</span></p> 
+ <p style="text-align:justify"><a href="#id4.5.3.1"> 4.5.3.1</a> <span id="id4.5.3.1"> 船闸高边坡的水平变位观测，对关键断面和重要断面，除应布设交会观测的表面变位观测点外，还应在边坡马道及监测支洞内布置测点，重要断面的测点数量可相对较少；对一般断面，可通过变形观测网进行观测。</span></p> 
+ <p style="text-align:justify"><a href="#id4.5.3.2"> 4.5.3.2</a> <span id="id4.5.3.2"> 船闸高边坡的垂直变位观测，对关键断面和重要断面，从边坡最高一级马道至闸室建基面以下的岩体中应布置多个测点，边坡表面垂直变位观测点应与表面水平变位观测点布置在同一位置，重要断面的测点数量可相对较少；对一般断面，可通过变形观测网进行观测。</span></p> 
+ <p style="text-align:justify"><a href="#id4.5.3.3"> 4.5.3.3</a> <span id="id4.5.3.3"> 进行船闸应力观测时，除在关键断面、重要断面、一般断面布置测点外，还应根据实际情况在上闸首、下闸首、输水廊道、阀门井、整体式船闸的底板、岩石基础、衬砌式结构与基岩的接触面、锚索、锚杆等部位布置测点。</span></p> 
+ <p style="text-align:justify"><a href="#id4.5.3.4"> 4.5.3.4</a> <span id="id4.5.3.4"> 船闸闸门等平面钢结构的动力反应观测，应划分网格设置观测点。</span></p> 
 
+ <p style="text-align:justify"><a href="#id4.5.4"> 4.5.4</a> <span id="id4.5.4"> 升船机原型观测的断面设置应满足下列要求：</span></p> 
+
+ <ol>
+ <li> 关键断面根据工程的实际情况取1~2个；</li>
+ <li> 升船机的上闸首、下闸首，按重要断面布置；在枢纽中参与大坝挡水的升船机上闸首，按重要断面布置，重要断面的数量不少于关键断面；</li>
+ <li> 一般断面根据升船机结构形式、地质条件综合确定。</li>
+ </ol>
+ 
+ <p style="text-align:justify"><a href="#id4.5.5"> 4.5.5</a> <span id="id4.5.5"> 升船机的观测设计可参照船闸的有关规定执行，并应符合下列规定。</span></p>  
+ <p style="text-align:justify"><a href="#id4.5.5.1"> 4.5.5.1</a> <span id="id4.5.5.1"> 在进行升船机应力观测时，除在关键断面、重要断面、一般断面布置测点外，还可根据实际情况在底板关键断面、塔楼关键断面等部位布置测点。</span></p>     
+ <p style="text-align:justify"><a href="#id4.5.5.2"> 4.5.5.2</a> <span id="id4.5.5.2"> 在塔柱温差变化较大的区域，可布置混凝土应力观测点以及水平变位观测点，观测塔柱的受力与变形。</span></p>     
+ <p style="text-align:justify"><a href="#id4.5.5.3"> 4.5.5.3</a> <span id="id4.5.5.3"> 在上闸首工作门段和下闸首工作门段，可分别设置1对和2对水平变位观测点，观测左右闸墙间的相对位移。。</span></p>     
 
 4.6 航道整治建筑物
 ----------------------
 
 .. raw:: html  
 
- <p style="text-align:justify"><a href="#id4.6.1"> 4.6.1</a> <span id="id4.6.1"> </span></p> 
- <p style="text-align:justify"><a href="#id4.6.1"> 4.6.1</a> <span id="id4.6.1"> </span></p> 
- <p style="text-align:justify"><a href="#id4.6.1"> 4.6.1</a> <span id="id4.6.1"> </span></p> 
- <p style="text-align:justify"><a href="#id4.6.1"> 4.6.1</a> <span id="id4.6.1"> </span></p>    
+ <p style="text-align:justify"><a href="#id4.6.1"> 4.6.1</a> <span id="id4.6.1"> 航道整治建筑物的观测周期应根据水流量、流木情况、流冰情况、坝体构成、地质条件、河道条件、汛期等综合确定。当坝面、坝身或坝脚出现塌落迹象时，应增加观测频次。</span></p> 
+ <p style="text-align:justify"><a href="#id4.6.2"> 4.6.2</a> <span id="id4.6.2"> 丁坝原型观测的测点设置应满足下列要求。</span></p> 
+ <p style="text-align:justify"><a href="#id4.6.2.1"> 4.6.2.1</a> <span id="id4.6.2.1"> 山区河流流速较大或有流木、流冰时，测点可设置在坝面、坝头等部位。</span></p> 
+ <p style="text-align:justify"><a href="#id4.6.2.2"> 4.6.2.2</a> <span id="id4.6.2.2"> 在平原河流及松散的砂、卵石河床上建造的丁坝，测点可设置在坝面、坝根等部位。</span></p> 
+ <p style="text-align:justify"><a href="#id4.6.3"> 4.6.3</a> <span id="id4.6.3"> 顺坝原型观测的测点设置应满足下列要求。</span></p> 
+ <p style="text-align:justify"><a href="#id4.6.3.1"> 4.6.3.1</a> <span id="id4.6.3.1"> 对导流顺坝，测点可设置在坝身、坝根与河岸岸坡连接处等部位。</span></p> 
+ <p style="text-align:justify"><a href="#id4.6.3.2"> 4.6.3.2</a> <span id="id4.6.3.2"> 对封弯顺坝，测点可设置在堵口坝段、坝根与河岸岸坡连接处等部位。</span></p> 
+ <p style="text-align:justify"><a href="#id4.6.3.3"> 4.6.3.3</a> <span id="id4.6.3.3"> 对固滩顺坝，测点可设置在顺坝的两端。</span></p>    
+ <p style="text-align:justify"><a href="#id4.6.4"> 4.6.4</a> <span id="id4.6.4"> 锁坝原型观测的测点可设置在坝体、坝脚、坝顶、坝根与护岸连接处等部位。</span></p>    

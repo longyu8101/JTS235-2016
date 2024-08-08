@@ -15,18 +15,33 @@
 
 .. raw:: html
 
- &emsp;&emsp; 现发布《水运工程水工建筑物原型观测技术规范》(以下简称《规范》)。本《规范》为强制性行业标准，编号为JTS 235—2016,自2016年9月1日起施行。《水运工程水工建筑物原型观测技术规范》(JTJ 218—2005)同时废止。<br>
- &emsp;&emsp; 本《规范》由交通运输部水运局负责管理和解释。<br>
- &emsp;&emsp; 特此公告。
- <div style="text-align:right;"><b>中华人民共和国交通运输部</b><br>
- 2016年7月20日</div>
+ <p style="text-align:justify;text-indent:2em;"> 现发布《水运工程水工建筑物原型观测技术规范》(以下简称《规范》)。本《规范》为强制性行业标准，编号为JTS 235—2016,自2016年9月1日起施行。《水运工程水工建筑物原型观测技术规范》(JTJ 218—2005)同时废止。</p>
+ <p style="text-align:justify;text-indent:2em;"> 本《规范》由交通运输部水运局负责管理和解释。</p>
+ <p style="text-align:justify;text-indent:2em;"> 特此公告。</p>
+
+.. raw:: html
+
+    <style>
+        #abc{
+            height:100px;
+            background-color: #f0ffff;
+        }
+    </style>
+ </head>
+ <body>
+    <div id="abc"></div>
+ </body>
+
+
+ <div style="text-align:right;"><b>中华人民共和国交通运输部<br>
+ 2016年7月20日</b></div>
 
 
 .. raw:: html
 
     <style>
         #abc{
-            height:500px;
+            height:200px;
             background-color: #f0ffff;
         }
     </style>

@@ -10,13 +10,11 @@
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id8.1.1"> 8.1.1</a> <span id="id8.1.1"> 结构自重的标准值应按结构构件的设计尺寸与材料密度计算确定。对于自重变异较大的材料和构件，对结构不利时自重标准值取上限值，对结构有利时取下限值。</span></p>
- <p style="text-align:justify"><a href="#id8.1.2"> 8.1.2</a> <span id="id8.1.2"> 位置固定的永久设备自重应采用设备铭牌重量值；当无铭牌重量时，应按实际重量计算。</span></p>
- <p style="text-align:justify"><a href="#id8.1.3"> 8.1.3</a> <span id="id8.1.3"> 隔墙自重作为永久作用时，应符合位置固定的要求；位置可灵活布置的轻质隔墙自重应按可变荷载考虑。</span></p>
- <p style="text-align:justify"><a href="#id8.1.4"> 8.1.4</a> <span id="id8.1.4"> 土压力应按设计埋深与土的单位体积自重计算确定。土的单位体积自重应根据计算水位分别取不同密度进行计算。</span></p>
- <p style="text-align:justify"><a href="#id8.1.5"> 8.1.5</a> <span id="id8.1.5"> 预加应力应考虑时间效应影响，采用有效预应力。</span></p>
- <p style="text-align:justify"><a href="#id8.1.6"> 8.1.6</a> <span id="id8.1.6"> 预加应力应考虑时间效应影响，采用有效预应力。</span></p>
- <p style="text-align:justify"><a href="#id8.1.7"> 8.1.7</a> <span id="id8.1.7"> 预加应力应考虑时间效应影响，采用有效预应力。</span></p>
+ <p style="text-align:justify"><a href="#id8.1.1"> 8.1.1</a> <span id="id8.1.1"> 水工建筑物振动观测应包括结构动力特性观测和结构动力反应观测及相关资料的收集等内容</span></p>
+ <p style="text-align:justify"><a href="#id8.1.2"> 8.1.2</a> <span id="id8.1.2"> 振动观测的相关资料应包括建筑物设计图纸、建筑物现状、工程地质和地震资料。</span></p>
+ <p style="text-align:justify"><a href="#id8.1.3"> 8.1.3</a> <span id="id8.1.3"> 振动观测应采取必要的安全和防护措施。</span></p>
+
+
 
 
 8.2 结构动力特性观测
@@ -24,23 +22,67 @@
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id8.2.1"> 8.2.1</a> <span id="id8.2.1"> 水平变位观测可分为表面水平变位观测和内部水平变位观测。</span></p>
- <p style="text-align:justify"><a href="#id8.2.2"> 8.2.2</a> <span id="id8.2.2"> 水平变位观测的测点设置应符合下列规定。</span></p>
- <p style="text-align:justify"><a href="#id8.2.3"> 8.2.3</a> <span id="id8.2.3"> 水平变位观测方法应符合下列规定。</span></p>
- <p style="text-align:justify"><a href="#id8.2.4"> 8.2.4</a> <span id="id8.2.4"> 水平变位观测周期，第一年可3~6个月观测1次；以后可1~2年观测1次；同一观测点应同时进行垂直变位观测。对水平变位比较敏感的水工建筑物可加密观测。</span></p>
- <p style="text-align:justify"><a href="#id8.2.5"> 8.2.5</a> <span id="id8.2.5"> 水平变位观测的精度应符合表6.1.4的规定。</span></p>
- <p style="text-align:justify"><a href="#id8.2.6"> 8.2.6</a> <span id="id8.2.6"> 水平变位观测应提交下列成果：</span></p>
+ <p style="text-align:justify"><a href="#id8.2.1"> 8.2.1</a> <span id="id8.2.1"> 结构动力特性观测应包括结构自振频率、振型和阻尼比观测等内容。</span></p>
+ <p style="text-align:justify"><a href="#id8.2.2"> 8.2.2</a> <span id="id8.2.2"> 结构动力特性观测点的设置位置和数量应满足所测振型阶数和观测设计的要求，并应在被测建筑物地面和周围地面设置观测点。</span></p>
+ <p style="text-align:justify"><a href="#id8.2.3"> 8.2.3</a> <span id="id8.2.3"> 结构动力特性观测方法应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#id8.2.3.1"> 8.2.3.1</a> <span id="id8.2.3.1"> 结构基本振型的动力特性观测宜采用环境随机振动法，也可采用初位移法或强迫振动法。</span></p>
+ <p style="text-align:justify"><a href="#id8.2.3.2"> 8.2.3.2</a> <span id="id8.2.3.2"> 结构平面内多个振型的动力特性观测可采用稳态正弦激振法或强迫振动法。</span></p>
+ <p style="text-align:justify"><a href="#id8.2.3.3"> 8.2.3.3</a> <span id="id8.2.3.3"> 结构空间振型和扭转振型的动力特性观测可采用多振源相位控制同步的稳态正弦波激振法。</span></p>
+ <p style="text-align:justify"><a href="#id8.2.4"> 8.2.4</a> <span id="id8.2.4"> 结构动力特性观测可根据观测目的和要求在下列情况下进行：</span></p>
+ <ol>
+ <li>建筑物投产使用初期；</li>
+ <li>建筑物改变用途或改变使用条件；</li>
+ <li>使用期发现安全问题；</li>
+ <li>建筑物超过设计使用年限。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id8.2.5"> 8.2.5</a> <span id="id8.2.5"> 结构动力特性观测的仪器设备应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#id8.2.5.1"> 8.2.5.1</a> <span id="id8.2.5.1"> 结构动力特性观测应根据观测要求和振型阶数等选择加速度计、速度计或位移计等拾振器。拾振器的横向灵敏度应小于0.05。</span></p>
+ <p style="text-align:justify"><a href="#id8.2.5.2"> 8.2.5.2</a> <span id="id8.2.5.2"> 采用稳态正弦波激振法观测结构动力特性时，宜选用旋转惯性机械起振机、液压伺服激振器或电磁激振器，使用频率范围宜取0.5 Hz～30 Hz,频率分辨力应高于0.01 Hz。</span></p>
+ <p style="text-align:justify"><a href="#id8.2.5.3"> 8.2.5.3</a> <span id="id8.2.5.3"> 采用锤击法观测结构动力特性时，观测仪器的使用频率范围应比稳态测试时大一个数量级。</span></p>
+ <p style="text-align:justify"><a href="#id8.2.6"> 8.2.6</a> <span id="id8.2.6"> 结构动力特性观测应提交下列成果：</span></p>
+ <ol>
+ <li>观测点布置图；</li>
+ <li>观测记录表；</li>
+ <li>观测数据处理资料；</li>
+ <li>时域曲线；</li>
+ <li>频谱曲线；</li>
+ <li>结构动力特性与其他相关因素的关系资料；</li>
+ <li>观测成果分析。</li>
+  </ol>
 
 8.3 结构动力反应观测
 ----------------------
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id8.3.1"> 8.3.1</a> <span id="id8.3.1"> 垂直变位观测可分为表面垂直变位观测和内部垂直变位观测。</span></p>
- <p style="text-align:justify"><a href="#id8.3.2"> 8.3.2</a> <span id="id8.3.2"> 垂直变位观测点的设置应符合下列规定。</span></p>
- <p style="text-align:justify"><a href="#id8.3.3"> 8.3.3</a> <span id="id8.3.3"> 垂直变位观测方法应符合下列规定。</span></p>
- <p style="text-align:justify"><a href="#id8.3.4"> 8.3.4</a> <span id="id8.3.4"> 垂直变位观测周期，除有特殊要求外，第一年宜每季度观测1次，第二年宜每半年观测1次，第三年后宜每年观测1次，直至稳定为止。当建筑物出现异常变位时应加密观测。</span></p>
- <p style="text-align:justify"><a href="#id8.3.5"> 8.3.5</a> <span id="id8.3.5"> 垂直变位观测精度应符合下列规定。</span></p>
- <p style="text-align:justify"><a href="#id8.3.6"> 8.3.6</a> <span id="id8.3.6"> 直变位观测应提交下列成果：</span></p>     
+ <p style="text-align:justify"><a href="#id8.3.1"> 8.3.1</a> <span id="id8.3.1"> 结构动力反应观测应包括结构动态参数、结构振动形态和结构动力系数观测等内容。结构动力反应观测前，应进行结构动力特性观测。进行结构动力反应观测时，应同时观测作用于结构上的动力荷载。</span></p>
+ <p style="text-align:justify"><a href="#id8.3.2"> 8.3.2</a> <span id="id8.3.2"> 结构动力反应观测点的设置应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#id8.3.2.1"> 8.3.2.1</a> <span id="id8.3.2.1"> 观测点的位置和数量应能满足确定结构振动形态和观测设计的要求，并应在被测建筑物地面和周围地面设置观测点。</span></p>
+ <p style="text-align:justify"><a href="#id8.3.2.2"> 8.3.2.2</a> <span id="id8.3.2.2"> 在结构受力和变形可能最大的部位应设置观测点。</span></p>
+ <p style="text-align:justify"><a href="#id8.3.3"> 8.3.3</a> <span id="id8.3.3"> 结构动力反应观测方法应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#id8.3.3.1"> 8.3.3.1</a> <span id="id8.3.3.1"> 结构动态参数可采用相应的传感器直接测定；对结构构件的轴力、剪力和弯矩等内力反应，可通过应变或位移观测后经计算分析确定。</span></p>
+ <p style="text-align:justify"><a href="#id8.3.3.2"> 8.3.3.2</a> <span id="id8.3.3.2"> 结构振动形态可采用将同一时刻各测点振幅连线的方法确定。</span></p>
+ <p style="text-align:justify"><a href="#id8.3.3.3"> 8.3.3.3</a> <span id="id8.3.3.3"> 结构动力系数应通过测定结构最大受力效应与相应静力效应的计算确定。</span></p>
+ <p style="text-align:justify"><a href="#id8.3.3.4"> 8.3.3.4</a> <span id="id8.3.3.4"> 结构外部动力荷载的观测，应按第7.5节和第7.7节的有关规定执行。桥吊和门机等动力机械的动力荷载观测，可按作业工况记录。</span></p>
+ <p style="text-align:justify"><a href="#id8.3.4"> 8.3.4</a> <span id="id8.3.4"> 结构动力反应观测可根据观测目的和要求在下列情况下进行：</span></p>
+ <ol>
+ <li>建筑物投产使用初期；</li>
+ <li>建筑物改变用途或改变使用条件；</li>
+ <li>使用期发现安全问题；</li>
+ <li>建筑物超过设计使用年限。</li>
+  </ol>
 
-
+ <p style="text-align:justify"><a href="#id8.3.5"> 8.3.5</a> <span id="id8.3.5"> 结构动力反应观测仪器的选用应符合下列规定。</span></p>
+ <p style="text-align:justify"><a href="#id8.3.5.1"> 8.3.5.1</a> <span id="id8.3.5.1"> 结构动态参数观测应采用自动化仪器，其功能应满足实时控制和数据采集、数据处理、图形输出等要求。</span></p>
+ <p style="text-align:justify"><a href="#id8.3.5.2"> 8.3.5.2</a> <span id="id8.3.5.2"> 观测仪器动态范围应大于60 dB,测试信号分辨力应高于最小有用振动幅值的1/10。</span></p>
+ <p style="text-align:justify"><a href="#id8.3.5.3"> 8.3.5.3</a> <span id="id8.3.5.3"> 传感器的连接导线应采用屏蔽电缆。观测仪器的输出阻抗和输出电平应与记录仪器匹配。</span></p>
+ <p style="text-align:justify"><a href="#id8.3.6"> 8.3.6</a> <span id="id8.3.6"> 结构动力反应观测应提交下列成果：</span></p>     
+ <ol>
+ <li>观测点布置图；</li>
+ <li>观测记录表；</li>
+ <li>观测数据处理资料；</li>
+ <li>时域曲线；</li>
+ <li>频谱曲线；</li>
+ <li>结构动力反应与其他相关因素的关系资料；</li>
+ <li>观测成果分析。  </li>
+ </ol>
