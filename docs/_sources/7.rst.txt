@@ -112,7 +112,7 @@
  <p style="text-align:justify"><a href="#id7.6.1.1"> 7.6.1.1</a> <span id="id7.6.1.1"> 水流力可通过现场测试水流速度计算得到。水流力计算方法应符合现行行业标准《港口工程荷载规范》(JTS 144—1)的有关规定。</span></p>
  <p style="text-align:justify"><a href="#id7.6.1.2"> 7.6.1.2</a> <span id="id7.6.1.2"> 水流力观测点的位置和数量应根据观测目的和要求，结合现场环境和水工建筑物的结构特点确定。</span></p>  
  <p style="text-align:justify"><a href="#id7.6.2"> 7.6.2</a> <span id="id7.6.2"> 水流速度可采用流速计测试法。</span></p>
- <p style="text-align:justify"><a href="#id7.6.3"> 7.6.3</a> <span id="id7.6.3"> 采用流速计测试水流速度时，测量系统的精度不应低于最大测量值的0.5?</span></p>
+ <p style="text-align:justify"><a href="#id7.6.3"> 7.6.3</a> <span id="id7.6.3"> 采用流速计测试水流速度时，测量系统的精度不应低于最大测量值的0.5%。</span></p>
  <p style="text-align:justify"><a href="#id7.6.4"> 7.6.4</a> <span id="id7.6.4"> 水流力观测应提交下列成果：</span></p>
  <ol>
  <li>观测点布置图；</li>
@@ -146,9 +146,9 @@
  <p style="text-align:justify"><a href="#id7.7.4"> 7.7.4</a> <span id="id7.7.4"> 测力计和变形计应根据护舷的吸能指标和缆绳破断力指标合理选择。</span></p>
  <p style="text-align:justify"><a href="#id7.7.5"> 7.7.5</a> <span id="id7.7.5"> 船舶力观测精度应满足下列要求：</span></p>
    <ol>
- <li>测力计率定线性相对允许误差为±3%;</li>
- <li>变形计率定线性相对允许误差为±2%;</li>
- <li>激光测速仪相对允许误差为±5%</li>
+ <li>测力计率定线性相对允许误差为±3%；</li>
+ <li>变形计率定线性相对允许误差为±2%；</li>
+ <li>激光测速仪相对允许误差为±5%。</li>
   </ol>
  <p style="text-align:justify"><a href="#id7.7.6"> 7.7.6</a> <span id="id7.7.6"> 船舶力观测应提交下列成果：</span></p>
   <ol>

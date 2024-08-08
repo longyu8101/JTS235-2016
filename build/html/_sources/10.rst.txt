@@ -52,7 +52,7 @@
  <p style="text-align:justify"><a href="#id10.2.4"> 10.2.4</a> <span id="id10.2.4"> 混凝土结构腐蚀观测在建筑物使用期间宜每2年进行1次，必要时应加密观测。</span></p>
  <p style="text-align:justify"><a href="#id10.2.5"> 10.2.5</a> <span id="id10.2.5"> 混凝土结构腐蚀观测精度应符合下列规定。</span></p>
  <p style="text-align:justify"><a href="#id10.2.5.1"> 10.2.5.1</a> <span id="id10.2.5.1"> 采用钢筋半电池电位检测钢筋锈蚀状况时，测定偏差不得大于10 mV。</span></p>
- <p style="text-align:justify"><a href="#id10.2.5.2"> 10.2.5.2</a> <span id="id10.2.5.2"> 混凝土保护层厚度检测精度不应低于I mm。</span></p>
+ <p style="text-align:justify"><a href="#id10.2.5.2"> 10.2.5.2</a> <span id="id10.2.5.2"> 混凝土保护层厚度检测精度不应低于1 mm。</span></p>
  <p style="text-align:justify"><a href="#id10.2.5.3"> 10.2.5.3</a> <span id="id10.2.5.3"> 混凝土碳化深度测量精度不应低于0.5 mm。</span></p>
  <p style="text-align:justify"><a href="#id10.2.6"> 10.2.6</a> <span id="id10.2.6"> 混凝土结构腐蚀观测应提交下列成果：</span></p>
  <ol>
