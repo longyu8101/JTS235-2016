@@ -1,0 +1,26 @@
+2 术语
+=================
+
+.. raw:: html
+
+  <h2 id="test111">2 术语</h2>
+
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id2.0.1"> 2.0.1</a> <span id="id2.0.1"> 原型观测 Prototypc Obscrvation<br>  &emsp;&emsp;&emsp; 在现场对水工建筑物实体及相关因素进行观察、监测，并据此开展分析的活动。</span></p>
+
+ <p style="text-align:justify"><a href="#id2.0.2"> 2.0.2</a> <span id="id2.0.2"> 观测周期 Obscrvation Cyclc<br> &emsp;&emsp;&emsp; 相邻两次观测的时间间隔。</span></p>
+
+ <p style="text-align:justify"><a href="#id2.0.3"> 2.0.3</a> <span id="id2.0.3"> 观测系统 Obscrvation Systcm<br> &emsp;&emsp;&emsp; 实施原型观测的仪器设备及相关的传感器、线缆、软件组成的系统。</span></p>
+
+ <p style="text-align:justify"><a href="#id2.0.4"> 2.0.4</a> <span id="id2.0.4"> 工作基点 Opcrating Control Point<br> &emsp;&emsp;&emsp; 用于直接测定观测点的相对稳定的测量控制点。</span></p>
+
+ <p style="text-align:justify"><a href="#id2.0.5"> 2.0.5</a> <span id="id2.0.5"> 面水平变位 Surfacc: Horizontal Displaccmcnt<br> &emsp;&emsp;&emsp; 建筑物、土体表面的位移量和变形值沿水平方向的分量。</span></p>
+
+ <p style="text-align:justify"><a href="#id2.0.6"> 2.0.6</a> <span id="id2.0.6"> 部水平变位 Inncr Horizontal Displaccment<br> &emsp;&emsp;&emsp; 土体表面以下一定深度或建筑物内部的位移量和变形值沿水平方向的分量。</span></p>
+
+ <p style="text-align:justify"><a href="#id2.0.7"> 2.0.7</a> <span id="id2.0.7"> 面垂直变位 Surfacc Vcrtical Displaccmcnt<br> &emsp;&emsp;&emsp; 建筑物、土体表面的位移量和变形值沿竖直方向的分量。</span></p>
+
+ <p style="text-align:justify"><a href="#id2.0.8"> 2.0.8</a> <span id="id2.0.8"> 部垂直变位 Inncr Vcrtical Displaccmcnt<br> &emsp;&emsp;&emsp; 土体表面以下一定深度或建筑物内部的位移量和变形值沿竖直方向的分量。</span></p>
+
